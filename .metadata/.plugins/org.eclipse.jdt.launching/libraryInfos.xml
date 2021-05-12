@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre" version="1.7.0_55">
+<bootpath>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\resources.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\jfr.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse" version="1.7.0_55">
+<bootpath>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\resources.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\jfr.jar"/>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Android_Development\adt-bundle-windows-x86_64-20140321\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

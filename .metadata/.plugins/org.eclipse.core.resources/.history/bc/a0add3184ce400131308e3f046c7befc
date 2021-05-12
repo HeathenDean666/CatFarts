@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test App</string>
+    <string name="edit_message">Enter a Message:</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_game">Start the game, fool!</string>
+    <string name="desc">testing...</string>
+    <string name="title_activity_commands">Commands</string>
+    <string name="commands">Welcome to CatFarts, maggot. Your orders are simple: \n \n 1.) Neutralize the \'Fart!\' button \n 2.) Enjoy feline image and fart noise \n 3.) Repeat steps 1 and 2 until happiness is attained. \n\n\n Good Luck, Soldier!</string>
+	<string name="orders_confirmed">ORDERS CONFIRMED.</string>
+	<string name="llama">KISS YOUR BALLS GOODBYE, COCKSUCKER!</string>
+	
+</resources>

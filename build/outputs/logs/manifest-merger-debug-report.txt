@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-53:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/addison/.gradle/caches/transforms-3/bb19dcc30f61364a24453f5181bbc3e4/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/b5b46ec2a027c169ee5c3329f6069d3d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/addison/.gradle/caches/transforms-3/ccd905b5135525745bfdae3ad252c153/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/addison/.gradle/caches/transforms-3/4c4db5e5b5b18e87ea4ac8b17e40da90/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/addison/.gradle/caches/transforms-3/f5734bedec24b4e15e2bd10bb432f979/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/addison/.gradle/caches/transforms-3/eaaaa7ab3effe1db66c6b1fecdefa35b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/addison/.gradle/caches/transforms-3/8ce18e23200ca8a68cdfd5a6c91afc00/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/addison/.gradle/caches/transforms-3/90d009ac7441f8256a1e0daf6df77838/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/addison/.gradle/caches/transforms-3/918702e458f04026dad56112a8d40ccf/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/addison/.gradle/caches/transforms-3/49cba8f47b29c20df736787147222d0d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/addison/.gradle/caches/transforms-3/39a06bf2ce33ebf900b4d37787722a2b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /home/addison/.gradle/caches/transforms-3/e01cf3533d4d31ce9705ae6c489bc2fd/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/addison/.gradle/caches/transforms-3/dc05ee58da2a5b9b00733b80fd61554f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/addison/.gradle/caches/transforms-3/d6f4dc0e68b6eea903e99f044adc1e76/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/addison/.gradle/caches/transforms-3/38e62c001f50df3f109a786d0fddd022/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/addison/.gradle/caches/transforms-3/af678ec508d1b86646a61f3650bed20b/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/addison/.gradle/caches/transforms-3/7c0b0431369f74877fe90466119d9af3/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/addison/.gradle/caches/transforms-3/f91d5b6d98bca07f71d84d1326eafb8a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/addison/.gradle/caches/transforms-3/56739c7f6d3913d732d0aee055e4054b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/addison/.gradle/caches/transforms-3/f3adb0866b3f688f7cbc28c120b56106/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/addison/.gradle/caches/transforms-3/ef85fac72f8c4ff222275cbca1d871e2/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:3:5-39
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:5:5-30
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:4:5-28
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+application
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:7:5-52:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/b5b46ec2a027c169ee5c3329f6069d3d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/b5b46ec2a027c169ee5c3329f6069d3d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /home/addison/.gradle/caches/transforms-3/e01cf3533d4d31ce9705ae6c489bc2fd/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /home/addison/.gradle/caches/transforms-3/e01cf3533d4d31ce9705ae6c489bc2fd/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/addison/.gradle/caches/transforms-3/d6f4dc0e68b6eea903e99f044adc1e76/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/addison/.gradle/caches/transforms-3/d6f4dc0e68b6eea903e99f044adc1e76/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /home/addison/.gradle/caches/transforms-3/e01cf3533d4d31ce9705ae6c489bc2fd/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:11:9-47
+activity#com.heathendean.catfarts.MainActivity
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:14:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:19:27-74
+activity#com.heathendean.catfarts.StartGame
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:22:9-29:20
+	android:parentActivityName
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-79
+	android:label
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:24:13-62
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:23:13-62
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+	android:value
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+activity#com.heathendean.catfarts.Commands
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:30:9-35:20
+	android:parentActivityName
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:32:13-75
+	android:label
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:31:13-60
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:30:19-67
+activity#com.heathendean.catfarts.Settings
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:36:9-43:20
+	android:parentActivityName
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:39:13-79
+	android:label
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:38:13-62
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:37:13-61
+activity#com.heathendean.catfarts.Contact
+ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:44:9-51:20
+	android:parentActivityName
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:47:13-79
+	android:label
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:45:13-60
+uses-sdk
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/addison/.gradle/caches/transforms-3/bb19dcc30f61364a24453f5181bbc3e4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/addison/.gradle/caches/transforms-3/bb19dcc30f61364a24453f5181bbc3e4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/b5b46ec2a027c169ee5c3329f6069d3d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/b5b46ec2a027c169ee5c3329f6069d3d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/addison/.gradle/caches/transforms-3/ccd905b5135525745bfdae3ad252c153/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/addison/.gradle/caches/transforms-3/ccd905b5135525745bfdae3ad252c153/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/addison/.gradle/caches/transforms-3/4c4db5e5b5b18e87ea4ac8b17e40da90/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/addison/.gradle/caches/transforms-3/4c4db5e5b5b18e87ea4ac8b17e40da90/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/addison/.gradle/caches/transforms-3/f5734bedec24b4e15e2bd10bb432f979/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/addison/.gradle/caches/transforms-3/f5734bedec24b4e15e2bd10bb432f979/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/addison/.gradle/caches/transforms-3/eaaaa7ab3effe1db66c6b1fecdefa35b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/addison/.gradle/caches/transforms-3/eaaaa7ab3effe1db66c6b1fecdefa35b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/addison/.gradle/caches/transforms-3/8ce18e23200ca8a68cdfd5a6c91afc00/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/addison/.gradle/caches/transforms-3/8ce18e23200ca8a68cdfd5a6c91afc00/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/addison/.gradle/caches/transforms-3/90d009ac7441f8256a1e0daf6df77838/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/addison/.gradle/caches/transforms-3/90d009ac7441f8256a1e0daf6df77838/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/addison/.gradle/caches/transforms-3/918702e458f04026dad56112a8d40ccf/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/addison/.gradle/caches/transforms-3/918702e458f04026dad56112a8d40ccf/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/addison/.gradle/caches/transforms-3/49cba8f47b29c20df736787147222d0d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/addison/.gradle/caches/transforms-3/49cba8f47b29c20df736787147222d0d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/addison/.gradle/caches/transforms-3/39a06bf2ce33ebf900b4d37787722a2b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/addison/.gradle/caches/transforms-3/39a06bf2ce33ebf900b4d37787722a2b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /home/addison/.gradle/caches/transforms-3/e01cf3533d4d31ce9705ae6c489bc2fd/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/addison/.gradle/caches/transforms-3/e01cf3533d4d31ce9705ae6c489bc2fd/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/addison/.gradle/caches/transforms-3/dc05ee58da2a5b9b00733b80fd61554f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/addison/.gradle/caches/transforms-3/dc05ee58da2a5b9b00733b80fd61554f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/addison/.gradle/caches/transforms-3/d6f4dc0e68b6eea903e99f044adc1e76/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/addison/.gradle/caches/transforms-3/d6f4dc0e68b6eea903e99f044adc1e76/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/addison/.gradle/caches/transforms-3/38e62c001f50df3f109a786d0fddd022/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/addison/.gradle/caches/transforms-3/38e62c001f50df3f109a786d0fddd022/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/addison/.gradle/caches/transforms-3/af678ec508d1b86646a61f3650bed20b/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/addison/.gradle/caches/transforms-3/af678ec508d1b86646a61f3650bed20b/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/addison/.gradle/caches/transforms-3/7c0b0431369f74877fe90466119d9af3/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/addison/.gradle/caches/transforms-3/7c0b0431369f74877fe90466119d9af3/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/addison/.gradle/caches/transforms-3/f91d5b6d98bca07f71d84d1326eafb8a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/addison/.gradle/caches/transforms-3/f91d5b6d98bca07f71d84d1326eafb8a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/addison/.gradle/caches/transforms-3/56739c7f6d3913d732d0aee055e4054b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/addison/.gradle/caches/transforms-3/56739c7f6d3913d732d0aee055e4054b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/addison/.gradle/caches/transforms-3/f3adb0866b3f688f7cbc28c120b56106/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/addison/.gradle/caches/transforms-3/f3adb0866b3f688f7cbc28c120b56106/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/addison/.gradle/caches/transforms-3/ef85fac72f8c4ff222275cbca1d871e2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/addison/.gradle/caches/transforms-3/ef85fac72f8c4ff222275cbca1d871e2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
