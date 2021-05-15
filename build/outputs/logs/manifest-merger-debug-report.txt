@@ -59,7 +59,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/addis
 	android:allowBackup
 		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:11:9-47
+		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:11:9-59
 activity#com.heathendean.catfarts.MainActivity
 ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:13:9-21:20
 	android:label

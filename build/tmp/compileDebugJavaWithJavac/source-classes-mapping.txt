@@ -1,6 +1,7 @@
-com/heathendean/catfarts/Settings.java
- com.heathendean.catfarts.Settings
- com.heathendean.catfarts.Settings$PlaceholderFragment
+com/heathendean/catfarts/StartGame.java
+ com.heathendean.catfarts.StartGame
+ com.heathendean.catfarts.StartGame$1
+ com.heathendean.catfarts.StartGame$PlaceholderFragment
 com/heathendean/catfarts/Contact.java
  com.heathendean.catfarts.Contact
  com.heathendean.catfarts.Contact$PlaceholderFragment
@@ -9,10 +10,9 @@ com/heathendean/catfarts/BuildConfig.java
 com/heathendean/catfarts/Commands.java
  com.heathendean.catfarts.Commands
  com.heathendean.catfarts.Commands$PlaceholderFragment
-com/heathendean/catfarts/StartGame.java
- com.heathendean.catfarts.StartGame
- com.heathendean.catfarts.StartGame$1
- com.heathendean.catfarts.StartGame$PlaceholderFragment
 com/heathendean/catfarts/MainActivity.java
  com.heathendean.catfarts.MainActivity
  com.heathendean.catfarts.MainActivity$PlaceholderFragment
+com/heathendean/catfarts/Settings.java
+ com.heathendean.catfarts.Settings
+ com.heathendean.catfarts.Settings$PlaceholderFragment

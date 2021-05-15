@@ -21,4 +21,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_contact">Contact</string>
 
+    <string name="settings_imageButton_01_contentDescription">Button with gradient.</string>
+
 </resources>
