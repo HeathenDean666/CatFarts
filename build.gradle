@@ -47,7 +47,9 @@ android {
             resources.srcDirs = ['src']
             aidl.srcDirs = ['src']
             renderscript.srcDirs = ['src']
-            res.srcDirs = ['res']
+            res.srcDirs = [
+                    'res/layouts/main', 'res/layouts/options', 'res'
+            ]
             assets.srcDirs = ['assets']
         }
 

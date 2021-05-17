@@ -1,18 +1,24 @@
-com/heathendean/catfarts/StartGame.java
- com.heathendean.catfarts.StartGame
- com.heathendean.catfarts.StartGame$1
- com.heathendean.catfarts.StartGame$PlaceholderFragment
-com/heathendean/catfarts/Contact.java
- com.heathendean.catfarts.Contact
- com.heathendean.catfarts.Contact$PlaceholderFragment
+com/heathendean/catfarts/contact/Contact.java
+ com.heathendean.catfarts.contact.Contact
+ com.heathendean.catfarts.contact.Contact$PlaceholderFragment
 com/heathendean/catfarts/BuildConfig.java
  com.heathendean.catfarts.BuildConfig
-com/heathendean/catfarts/Commands.java
- com.heathendean.catfarts.Commands
- com.heathendean.catfarts.Commands$PlaceholderFragment
+com/heathendean/catfarts/instructions/Instructions.java
+ com.heathendean.catfarts.instructions.Instructions
+ com.heathendean.catfarts.instructions.Instructions$PlaceholderFragment
+com/heathendean/catfarts/play/Play.java
+ com.heathendean.catfarts.play.Play
+ com.heathendean.catfarts.play.Play$1
+ com.heathendean.catfarts.play.Play$PlaceholderFragment
+com/heathendean/catfarts/settings/fart/Farts.java
+ com.heathendean.catfarts.settings.fart.Farts
+ com.heathendean.catfarts.settings.fart.Farts$PlaceholderFragment
+com/heathendean/catfarts/settings/cat/Cat.java
+ com.heathendean.catfarts.settings.cat.Cat
+ com.heathendean.catfarts.settings.cat.Cat$PlaceholderFragment
 com/heathendean/catfarts/MainActivity.java
  com.heathendean.catfarts.MainActivity
  com.heathendean.catfarts.MainActivity$PlaceholderFragment
-com/heathendean/catfarts/Settings.java
- com.heathendean.catfarts.Settings
- com.heathendean.catfarts.Settings$PlaceholderFragment
+com/heathendean/catfarts/settings/Settings.java
+ com.heathendean.catfarts.settings.Settings
+ com.heathendean.catfarts.settings.Settings$PlaceholderFragment

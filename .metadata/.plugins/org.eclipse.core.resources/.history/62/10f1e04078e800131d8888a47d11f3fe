@@ -1,6 +1,6 @@
 package com.heathendean.catfarts;
 
-import com.heathendean.catfarts.Commands.PlaceholderFragment;
+import com.heathendean.catfarts.instructions.Instructions.PlaceholderFragment;
 import com.heathendean.testapp.R;
 
 import android.content.Intent;

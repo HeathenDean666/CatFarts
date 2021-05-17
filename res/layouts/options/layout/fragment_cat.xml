@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="com.heathendean.catfarts.settings.Settings$PlaceholderFragment">
+
+
+
+	<ImageButton
+		android:id="@+id/imageButton7"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:adjustViewBounds="false"
+		android:background="@null"
+		android:backgroundTint="@null"
+		android:contentDescription="@string/settings_imageButton_01_contentDescription"
+		android:onClick="back_to_settings"
+		android:src="@drawable/button_image_02"
+		android:tint="@null" />
+
+</RelativeLayout>

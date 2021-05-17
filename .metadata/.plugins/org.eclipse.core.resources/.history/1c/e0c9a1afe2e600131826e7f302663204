@@ -23,21 +23,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.StartGame"
+            android:name="com.heathendean.catfarts.play.Play"
             android:label="@string/title_activity_start_game"
             android:parentActivityName="com.heathendean.catfarts.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.heathendean.testapp.MainActivity" />
         </activity>
-        <activity android:name="com.heathendean.catfarts.Commands"
+        <activity android:name="com.heathendean.catfarts.instructions.Instructions"
             android:label="@string/title_activity_commands"
-            android:parentActivityName="com.heathendean.catfarts.Commands">
+            android:parentActivityName="com.heathendean.catfarts.instructions.Instructions">
             <meta-data android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.heathendean.testapp.Commands" />
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.Settings"
+            android:name="com.heathendean.catfarts.settings.Settings"
             android:label="@string/title_activity_start_game"
             android:parentActivityName="com.heathendean.catfarts.MainActivity" >
             <meta-data
@@ -45,7 +45,7 @@
                 android:value="com.heathendean.testapp.MainActivity" />
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.Contact"
+            android:name="com.heathendean.catfarts.contact.Contact"
             android:label="@string/title_activity_start_game"
             android:parentActivityName="com.heathendean.catfarts.MainActivity" >
             <meta-data

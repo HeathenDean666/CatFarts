@@ -14,12 +14,13 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:icon="@drawable/app_icon"
-        android:label="@string/app_name"
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
         <activity
             android:name="com.heathendean.catfarts.MainActivity"
-            android:label="@string/title_activity_main" >
+            android:label="@string/app_name" >
+
+            <!-- android:label="@string/title_activity_main" > -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.StartGame"
+            android:name="com.heathendean.catfarts.play.Play"
             android:label="@string/title_activity_start_game"
             android:parentActivityName="com.heathendean.catfarts.MainActivity" >
             <meta-data
@@ -35,25 +36,41 @@
                 android:value="com.heathendean.catfarts.MainActivity" />
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.Commands"
+            android:name="com.heathendean.catfarts.instructions.Instructions"
             android:label="@string/title_activity_commands"
-            android:parentActivityName="com.heathendean.catfarts.Commands" >
+            android:parentActivityName="com.heathendean.catfarts.instructions.Instructions" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.heathendean.catfarts.Commands" />
+                android:value="com.heathendean.catfarts.instructions.Instructions" />
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.Settings"
-            android:label="@string/title_activity_start_game"
+            android:name="com.heathendean.catfarts.settings.Settings"
+            android:label="@string/title_activity_settings"
             android:parentActivityName="com.heathendean.catfarts.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.heathendean.catfarts.MainActivity" />
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.Contact"
-            android:label="@string/title_activity_start_game"
+            android:name="com.heathendean.catfarts.contact.Contact"
+            android:label="@string/title_activity_contact"
             android:parentActivityName="com.heathendean.catfarts.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.heathendean.catfarts.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.heathendean.catfarts.settings.cat.Cat"
+            android:label="@string/title_activity_contact"
+            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.heathendean.catfarts.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.heathendean.catfarts.settings.fart.Farts"
+            android:label="@string/title_activity_contact"
+            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.heathendean.catfarts.MainActivity" />
