@@ -552,6 +552,10 @@
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/layouts/main/layout/fragment_contact.xml"
     },
     {
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_back_triangle.xml.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/back_triangle.xml"
+    },
+    {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-mdpi_cat_15.png.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/cat_15.png"
     },

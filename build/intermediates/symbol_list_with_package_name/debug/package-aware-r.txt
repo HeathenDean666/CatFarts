@@ -427,6 +427,8 @@ color material_grey_850
 color material_grey_900
 color notification_action_color_filter
 color notification_icon_bg_color
+color pink
+color pink_gray
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -449,6 +451,7 @@ color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
+color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -657,6 +660,7 @@ drawable abc_vector_test
 drawable app_icon
 drawable back_home_one
 drawable back_home_two
+drawable back_triangle
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl

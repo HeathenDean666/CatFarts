@@ -78,17 +78,14 @@
 		</LinearLayout>
 	</ScrollView>
 
-	<ImageButton
+	<com.heathendean.catfarts.custom.customImageButton
 		android:id="@+id/imageButton7"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_width="200dp"
+		android:layout_height="200dp"
 		android:layout_alignParentBottom="true"
 		android:adjustViewBounds="false"
-		android:background="@null"
-		android:backgroundTint="@null"
-		android:contentDescription="@string/settings_imageButton_01_contentDescription"
+		android:background="@drawable/back_triangle"
 		android:onClick="back_to_main"
-		android:src="@drawable/button_image_02"
-		android:tint="@null" />
+		android:contentDescription="@string/desc"/>
 
 </RelativeLayout>

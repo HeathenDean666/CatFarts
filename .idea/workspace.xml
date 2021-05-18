@@ -23,59 +23,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.0.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CatFarts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CatFarts.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/0/2050f52b7de800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/0/2050f52b7de800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/13/4050494c8ee800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/13/4050494c8ee800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1c/608bda5386e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1c/608bda5386e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1c/e0c9a1afe2e600131826e7f302663204" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1c/e0c9a1afe2e600131826e7f302663204" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/32/903952a28ce800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/32/903952a28ce800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/44/60f504218ee800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/44/60f504218ee800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/45/60eb49607de800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/45/60eb49607de800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/46/608bcee6e2e600131826e7f302663204" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/46/608bcee6e2e600131826e7f302663204" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/53/202bf3a98fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/53/202bf3a98fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/56/501560f085e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/56/501560f085e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/60/30331c698fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/60/30331c698fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/62/10f1e04078e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/62/10f1e04078e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/63/20ecfe2880e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/63/20ecfe2880e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/68/5031009ae5e600131826e7f302663204" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/68/5031009ae5e600131826e7f302663204" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/69/c0eb9f8b78e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/69/c0eb9f8b78e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/70/706fb2fa81e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/70/706fb2fa81e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/70/909902718fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/70/909902718fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/72/f01408548fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/72/f01408548fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/73/00cb4ebc8de800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/73/00cb4ebc8de800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7a/d0854bd08de800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7a/d0854bd08de800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8/f0ace8628fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8/f0ace8628fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/80/a0bab93b8ce800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/80/a0bab93b8ce800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/83/30affb778ee800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/83/30affb778ee800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/85/00edd09b82e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/85/00edd09b82e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8c/d0d09ce8e4e600131826e7f302663204" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8c/d0d09ce8e4e600131826e7f302663204" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/95/d03ea6cc7de800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/95/d03ea6cc7de800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9e/30fdfc2280e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9e/30fdfc2280e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a0/80a705348fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a0/80a705348fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a2/90535d488fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a2/90535d488fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a3/a0cc3e3d8fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a3/a0cc3e3d8fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a4/4042377490e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a4/4042377490e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c2/10e7c85a8fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c2/10e7c85a8fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c2/a0f9724d82e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c2/a0f9724d82e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c7/c0ccc91d7ce800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c7/c0ccc91d7ce800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c8/90153fe7e4e600131826e7f302663204" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c8/90153fe7e4e600131826e7f302663204" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cb/1049406681e400131308e3f046c7befc" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cb/1049406681e400131308e3f046c7befc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cb/60c18d8886e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cb/60c18d8886e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d3/d0363b5081e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d3/d0363b5081e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d7/80f116ba8fe800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d7/80f116ba8fe800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e1/e001ae057ee800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e1/e001ae057ee800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f4/507e2539e3e600131826e7f302663204" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f4/507e2539e3e600131826e7f302663204" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ff/1018274a84e800131d8888a47d11f3fe" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ff/1018274a84e800131d8888a47d11f3fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
@@ -83,81 +32,35 @@
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/Commands$PlaceholderFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/Commands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/Contact$PlaceholderFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/Contact.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/MainActivity$PlaceholderFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/MainActivity$PlaceholderFragment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/MainActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/Settings$PlaceholderFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/Settings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/StartGame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/StartGame$PlaceholderFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/StartGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/Settings$PlaceholderFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/Settings$PlaceholderFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/Settings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/cat/Cat$PlaceholderFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/cat/Cat$PlaceholderFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/cat/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/cat/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/fart/Farts$PlaceholderFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/fart/Farts$PlaceholderFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/fart/Farts.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/fart/Farts.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/Commands$PlaceholderFragment.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/Commands.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/Contact$PlaceholderFragment.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/Contact.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/MainActivity$PlaceholderFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/MainActivity$PlaceholderFragment.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/MainActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/Settings$PlaceholderFragment.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/Settings.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/StartGame$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/StartGame$PlaceholderFragment.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/StartGame.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/dd5f6b7985182671e111c8c1e86b9af8f09c6571037079aeda869fa518dde3f5_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/dd5f6b7985182671e111c8c1e86b9af8f09c6571037079aeda869fa518dde3f5_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_commands.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_commands.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_contact.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_contact.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_start_game.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_activity_start_game.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_commands.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_commands.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_contact.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_contact.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/645faf1befdcdecfdd920f0a510d4f7e648ff771362045602e3e10c892f6311e_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/645faf1befdcdecfdd920f0a510d4f7e648ff771362045602e3e10c892f6311e_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/Settings$PlaceholderFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/Settings$PlaceholderFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/Settings.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/Settings.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/cat/Cat$PlaceholderFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/cat/Cat$PlaceholderFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/cat/Cat.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/cat/Cat.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/fart/Farts$PlaceholderFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/fart/Farts$PlaceholderFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/fart/Farts.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/fart/Farts.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_start_game.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_start_game.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/menu_commands.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/menu_contact.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/menu_main.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/menu_settings.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/menu_start_game.xml.flat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/outputs/apk/debug/CatFarts-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/outputs/apk/debug/CatFarts-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/activity_commands.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/activity_contact.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/activity_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/activity_start_game.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/fragment_commands.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/fragment_contact.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/fragment_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/fragment_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layout/fragment_start_game.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/menu/commands.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/menu/contact.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/menu/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/menu/settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/menu/start_game.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layouts/main/layout/fragment_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layouts/main/layout/fragment_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/Commands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/Contact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heathendean/catfarts/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/Settings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/StartGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/cat/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/cat/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/fart/Farts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/fart/Farts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,12 +112,16 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-12T20:00:30.980Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/home/addison/AndroidStudioProjects/CatFarts/src/com/heathendean/catfarts/custom/customImageButton.java_SELECTED" value="customImageButton" />
+    <property name="android-custom-view/home/addison/AndroidStudioProjects/CatFarts/src/com/heathendean/catfarts/customViews/triangleButton.java_SELECTED" value="triangleButton" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="/opt/Android_SDK" />
     <property name="device.picker.selection" value="c819b924" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/layout/options_layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/drawable-xxhdpi" />
     <property name="memory.settings.postsync.last.time.stamp" value="1621281426109" />
+    <property name="multi-representation-preview/home/addison/AndroidStudioProjects/CatFarts/src/com/heathendean/catfarts/custom/customImageButton.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/addison/AndroidStudioProjects/CatFarts/src/com/heathendean/catfarts/customViews/triangleButton.java_selected" value="Custom views" />
     <property name="project.structure.last.edited" value="Build Variants" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -231,6 +138,7 @@
       <recent name="com.heathendean.catfarts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable-xxhdpi" />
       <recent name="$PROJECT_DIR$/res/layout/options_layouts" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -508,10 +416,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="418" y="187" width="1084" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1620798985181" />
-    <state x="703" y="333" width="505" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620801660778">
+    <state x="703" y="333" width="519" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621297098284">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="703" y="333" width="505" height="397" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1620801660778" />
+    <state x="703" y="333" width="519" height="397" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621297098284" />
+    <state x="768" y="248" width="597" height="566" key="#com.intellij.ide.util.MemberChooser" timestamp="1621371134759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="768" y="248" width="597" height="566" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621371134759" />
     <state x="743" y="425" width="433" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620772855383">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -532,26 +444,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="779" y="339" width="353" height="384" key="AndroidCreateXmlResourceDialog/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1620798543463" />
+    <state x="518" y="91" width="875" height="880" key="CommitChangelistDialog2" timestamp="1621291508319">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="518" y="91" width="875" height="880" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621291508319" />
     <state x="394" y="264" width="426" height="546" key="FileChooserDialogImpl" timestamp="1620795305202">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="394" y="264" width="426" height="546" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1620795305202" />
-    <state width="1874" height="331" key="GridCell.Tab.0.bottom" timestamp="1621287053610">
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1621379539061">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1874" height="331" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621287053610" />
-    <state width="1874" height="331" key="GridCell.Tab.0.center" timestamp="1621287053610">
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621379539061" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1621379539061">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1874" height="331" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621287053610" />
-    <state width="1874" height="331" key="GridCell.Tab.0.left" timestamp="1621287053609">
+    <state width="1874" height="287" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621379539061" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1621379539061">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1874" height="331" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621287053609" />
-    <state width="1874" height="331" key="GridCell.Tab.0.right" timestamp="1621287053610">
+    <state width="1874" height="287" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621379539061" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1621379539061">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1874" height="331" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621287053610" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621379539061" />
     <state x="451" y="197" width="992" height="734" key="SettingsEditor" timestamp="1621283922125">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
