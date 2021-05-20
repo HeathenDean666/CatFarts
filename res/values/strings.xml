@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">CatFarts</string>
+    <string name="app_name">CAT FARTS</string>
     <string name="desc">testing…</string>
 
     <!-- Main -->
@@ -28,11 +28,5 @@
 	     blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 	     \n Addison Dean: \n Some Shit about addison  blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 	      blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah </string>
-
-    <!-- TODO: move to styles? -->
-    <color name="black">#000000</color>
-    <color name="white">#ffffff</color>
-    <color name="pink">#fbcdc9</color>
-    <color name="pink_gray">#86716f</color>
 
 </resources>
