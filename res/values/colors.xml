@@ -3,6 +3,10 @@
     <color name="black">#000000</color>
     <color name="white">#ffffff</color>
     <color name="pink_highlight">#fbcdc9</color>
+    <color name="pink_lowlight">#fba39d</color>
     <color name="pink">#fcb6b1</color>
     <color name="pink_gray">#86716f</color>
+    <color name="blue_lowlight">#fba39d</color>
+    <color name="blue">#fcb6b1</color>
+    <color name="blue_gray">#86716f</color>
 </resources>

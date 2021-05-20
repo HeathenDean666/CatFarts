@@ -67,7 +67,7 @@ public class Play extends AppCompatActivity {
 
 		// TODO: handle repeats/ persistence?
 		// Create and Display random image from resources
-		ImageView image = (ImageView) findViewById(R.id.imageView2);
+		ImageView image = (ImageView) findViewById(R.id.imageView1);
 		Random randPic = new Random();
 		String picResSuffix = String.valueOf(randPic.nextInt(PIC_NUM) + 1);
 		String picResName = "cat_" + picResSuffix;

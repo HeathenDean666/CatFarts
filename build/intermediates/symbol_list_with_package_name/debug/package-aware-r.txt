@@ -395,6 +395,9 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color blue
+color blue_gray
+color blue_lowlight
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -430,6 +433,7 @@ color notification_icon_bg_color
 color pink
 color pink_gray
 color pink_highlight
+color pink_lowlight
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -703,6 +707,8 @@ drawable first
 drawable gameplay_button
 drawable gameplay_button_01
 drawable go_home
+drawable ic_settings_button
+drawable ic_start_button
 drawable instruction_button
 drawable instruction_button_01
 drawable lore_button
@@ -711,6 +717,7 @@ drawable networking_button
 drawable networking_button_01
 drawable new_cat
 drawable new_cat_one
+drawable new_cat_triangle
 drawable new_cat_two
 drawable notification_action_background
 drawable notification_bg
@@ -801,6 +808,7 @@ id alertTitle
 id always
 id async
 id backHomeFromSettings
+id backHomeFromStartGame
 id barrier
 id beginning
 id blocking
@@ -851,7 +859,6 @@ id imageButton7
 id imageButton8
 id imageButton9
 id imageView1
-id imageView2
 id info
 id invisible
 id italic
@@ -865,6 +872,7 @@ id message
 id middle
 id multiply
 id never
+id newCat
 id none
 id normal
 id notification_background

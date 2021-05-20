@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="200dp"
+    android:width="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <path android:pathData="M200,0 v200 h-140" >
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="200"
+                android:startY="100"
+                android:endX="53"
+                android:endY="66"
+                android:type="linear">
+                <item
+                    android:color="#0e8dc4"
+                    android:offset="0.0" />
+                <item
+                    android:color="#24a7e0"
+                    android:offset="0.8" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#3a6070" android:pathData="m156,140 l16,16 l-16,16" />
+    <path android:fillColor="#3a6070" android:pathData="m156,154 l-16,0 l0,4 l16,0" />
+</vector>
+
+<!-- pink_lowlight, then pink, then pink_gray twice. -->

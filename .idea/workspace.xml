@@ -14,26 +14,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c7d6131-1206-455a-9ac3-b0a3ecc6442b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -45,7 +25,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.0.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
@@ -56,7 +35,6 @@
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/MainActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/contact/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/contact/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/custom/customImageButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/custom/customImageButton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/instructions/Instructions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/instructions/Instructions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/play/Play.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/play/Play.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/heathendean/catfarts/settings/Settings.class" afterDir="false" />
@@ -66,39 +44,26 @@
       <change beforePath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/075a62537f2367b59209db7b6f6b8bbefd4e306695696624e654cafbb413fdac_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/075a62537f2367b59209db7b6f6b8bbefd4e306695696624e654cafbb413fdac_1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/MainActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/contact/Contact.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/contact/Contact.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/custom/customImageButton.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/custom/customImageButton.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/instructions/Instructions.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/instructions/Instructions.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/play/Play.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/play/Play.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/Settings.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/Settings.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/cat/Cat.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/cat/Cat.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/fart/Farts.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/com/heathendean/catfarts/settings/fart/Farts.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/db8826b35a2fcbc6dcad13a22f37ed79a5068baed7b24292c9ba55b5f0b0a18d_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/project_dex_archive/debug/out/db8826b35a2fcbc6dcad13a22f37ed79a5068baed7b24292c9ba55b5f0b0a18d_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-hdpi_button_image_02.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-mdpi_button_image_02.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xhdpi_button_image_02.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_back_triangle.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi_button_image_02.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_cat.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_cat.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_farts.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_farts.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/drawable-xxhdpi-v24_back_triangle.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/outputs/apk/debug/CatFarts-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/outputs/apk/debug/CatFarts-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/button_image_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/button_image_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/button_image_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/back_triangle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/back_triangle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/button_image_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xxhdpi/back_triangle.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/res/layouts/main/layout/fragment_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layouts/main/layout/fragment_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/main/layout/fragment_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layouts/main/layout/fragment_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/options/layout/fragment_cat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layouts/options/layout/fragment_cat.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/options/layout/fragment_farts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layouts/options/layout/fragment_farts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layouts/main/layout/fragment_start_game.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layouts/main/layout/fragment_start_game.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/play/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heathendean/catfarts/play/Play.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +122,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="/opt/Android_SDK" />
     <property name="device.picker.selection" value="c819b924" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/drawable-xxhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/drawable" />
     <property name="memory.settings.postsync.last.time.stamp" value="1621281426109" />
     <property name="multi-representation-preview/home/addison/AndroidStudioProjects/CatFarts/src/com/heathendean/catfarts/custom/customImageButton.java_selected" value="Custom views" />
     <property name="multi-representation-preview/home/addison/AndroidStudioProjects/CatFarts/src/com/heathendean/catfarts/customViews/triangleButton.java_selected" value="Custom views" />
@@ -174,11 +139,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable" />
       <recent name="$PROJECT_DIR$/res/drawable-xxhdpi" />
       <recent name="$PROJECT_DIR$/res/drawable-xxhdpi/option_buttons" />
       <recent name="$PROJECT_DIR$/res/drawable-xxhdpi/cat_pictures01" />
       <recent name="$PROJECT_DIR$/res/drawable-xxhdpi/cat_pictures" />
-      <recent name="$PROJECT_DIR$/res/values" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.heathendean.catfarts" />
@@ -187,6 +152,7 @@
       <recent name="com.heathendean.catfarts.settings.cat" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable" />
       <recent name="$PROJECT_DIR$/res/drawable-xxhdpi" />
       <recent name="$PROJECT_DIR$/res/layout/options_layouts" />
     </key>
@@ -467,10 +433,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="743" y="425" width="433" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1620772855383" />
-    <state x="693" y="279" width="526" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621446849296">
+    <state x="693" y="279" width="526" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621543749622">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="693" y="279" width="526" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621446849296" />
+    <state x="693" y="279" width="526" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621543749622" />
     <state x="67" y="145" width="1722" height="859" key="AVDManager" timestamp="1620792381900">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -491,10 +457,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="518" y="91" width="875" height="880" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621291508319" />
-    <state x="394" y="264" width="426" height="546" key="FileChooserDialogImpl" timestamp="1621448743808">
+    <state x="394" y="264" width="426" height="546" key="FileChooserDialogImpl" timestamp="1621545740769">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="394" y="264" width="426" height="546" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621448743808" />
+    <state x="394" y="264" width="426" height="546" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1621545740769" />
     <state width="1874" height="286" key="GridCell.Tab.0.bottom" timestamp="1621463908154">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
