@@ -707,6 +707,8 @@ drawable first
 drawable gameplay_button
 drawable gameplay_button_01
 drawable go_home
+drawable ic_back_button
+drawable ic_new_cat_button
 drawable ic_settings_button
 drawable ic_start_button
 drawable instruction_button

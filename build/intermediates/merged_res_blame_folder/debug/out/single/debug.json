@@ -88,12 +88,12 @@
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/settings_button.xml"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-hdpi_back_home_two.png.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-hdpi/back_home_two.png"
-    },
-    {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_instruction_button.xml.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/instruction_button.xml"
+    },
+    {
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-hdpi_back_home_two.png.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-hdpi/back_home_two.png"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable_ic_start_button.xml.flat",
@@ -172,16 +172,16 @@
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/raw/fart_6.wav"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_cat_11.png.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/cat_11.png"
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xhdpi_fartron.png.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xhdpi/fartron.png"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-mdpi_new_cat.xml.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/new_cat.xml"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xhdpi_fartron.png.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xhdpi/fartron.png"
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_cat_11.png.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/cat_11.png"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/layout_fragment_cat.xml.flat",
@@ -256,12 +256,12 @@
         "source": "/home/addison/AndroidStudioProjects/CatFarts/build/generated/res/pngs/debug/drawable-xhdpi/back_triangle.png"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_cat_13.png.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/cat_13.png"
-    },
-    {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/layout-land_fragment_settings.xml.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/layouts/main/layout-land/fragment_settings.xml"
+    },
+    {
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_cat_13.png.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/cat_13.png"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
@@ -280,16 +280,16 @@
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/first.png"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-hdpi_commands_button.xml.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-hdpi/commands_button.xml"
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xhdpi_start_button.xml.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xhdpi/start_button.xml"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-hdpi_command_two.png.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-hdpi/command_two.png"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xhdpi_start_button.xml.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xhdpi/start_button.xml"
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-hdpi_commands_button.xml.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-hdpi/commands_button.xml"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-hdpi_cat_11.png.flat",
@@ -328,16 +328,16 @@
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/cat_11.png"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xhdpi_new_cat_two.png.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xhdpi/new_cat_two.png"
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-mdpi_new_cat_one.png.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/new_cat_one.png"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_cat_4.png.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/cat_4.png"
     },
     {
-        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-mdpi_new_cat_one.png.flat",
-        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/new_cat_one.png"
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xhdpi_new_cat_two.png.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xhdpi/new_cat_two.png"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xhdpi_settings_button.xml.flat",
@@ -644,6 +644,10 @@
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-mdpi/cat_2.png"
     },
     {
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable_ic_new_cat_button.xml.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable/ic_new_cat_button.xml"
+    },
+    {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_cat_14.png.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/cat_14.png"
     },
@@ -782,6 +786,10 @@
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-xxhdpi_first.png.flat",
         "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable-xxhdpi/first.png"
+    },
+    {
+        "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable_ic_back_button.xml.flat",
+        "source": "/home/addison/AndroidStudioProjects/CatFarts/res/drawable/ic_back_button.xml"
     },
     {
         "merged": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/res/merged/debug/drawable-hdpi_contact_button.xml.flat",

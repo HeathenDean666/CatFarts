@@ -14,8 +14,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_settings_button" />
-                            <entry key="sourceFile" value="$USER_HOME$/Desktop/settings_button.svg" />
+                            <entry key="outputName" value="ic_back_button" />
+                            <entry key="sourceFile" value="$USER_HOME$/Desktop/back_button.svg" />
                           </map>
                         </option>
                       </PersistentState>
