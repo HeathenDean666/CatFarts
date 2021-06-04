@@ -49,7 +49,7 @@
                 android:value="com.heathendean.catfarts.MainActivity" />
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.settings.cat.Cat"
+            android:name="com.heathendean.catfarts.settings.instructions.Instructions"
             android:label="@string/title_activity_contact"
             android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
             <meta-data
@@ -57,7 +57,7 @@
                 android:value="com.heathendean.catfarts.MainActivity" />
         </activity>
         <activity
-            android:name="com.heathendean.catfarts.settings.fart.Farts"
+            android:name="com.heathendean.catfarts.settings.sound.Sound"
             android:label="@string/title_activity_contact"
             android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
             <meta-data

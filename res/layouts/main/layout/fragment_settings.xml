@@ -23,8 +23,7 @@
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
 				android:onClick="cat_options"
-				android:src="@drawable/instruction_button"
-				android:tint="@null" />
+				android:src="@drawable/instruction_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton2"
@@ -35,8 +34,7 @@
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
 				android:onClick="fart_options"
-				android:src="@drawable/sound_button"
-				android:tint="@null" />
+				android:src="@drawable/sound_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton3"
@@ -46,8 +44,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/picture_button"
-				android:tint="@null" />
+				android:src="@drawable/picture_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton4"
@@ -57,8 +54,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/gameplay_button"
-				android:tint="@null" />
+				android:src="@drawable/gameplay_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton5"
@@ -68,8 +64,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/option_button"
-				android:tint="@null" />
+				android:src="@drawable/option_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton6"
@@ -79,8 +74,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/networking_button"
-				android:tint="@null" />
+				android:src="@drawable/networking_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton7"
@@ -90,8 +84,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/cheatcodes_button"
-				android:tint="@null" />
+				android:src="@drawable/cheatcodes_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton8"
@@ -101,8 +94,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/contact_button2"
-				android:tint="@null" />
+				android:src="@drawable/contact_button2"/>
 
 			<ImageButton
 				android:id="@+id/imageButton9"
@@ -112,8 +104,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/lore_button"
-				android:tint="@null" />
+				android:src="@drawable/lore_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton10"
@@ -123,8 +114,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/blank_option_button"
-				android:tint="@null" />
+				android:src="@drawable/blank_option_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton11"
@@ -134,8 +124,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/blank_option_button"
-				android:tint="@null" />
+				android:src="@drawable/blank_option_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton12"
@@ -145,8 +134,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/blank_option_button"
-				android:tint="@null" />
+				android:src="@drawable/blank_option_button"/>
 
 			<ImageButton
 				android:id="@+id/imageButton13"
@@ -156,8 +144,7 @@
 				android:background="@null"
 				android:backgroundTint="@null"
 				android:contentDescription="@string/settings_imageButton_01_contentDescription"
-				android:src="@drawable/blank_option_button"
-				android:tint="@null" />
+				android:src="@drawable/blank_option_button"/>
 		</LinearLayout>
 	</ScrollView>
 

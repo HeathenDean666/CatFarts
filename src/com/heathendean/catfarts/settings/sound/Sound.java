@@ -1,4 +1,4 @@
-package com.heathendean.catfarts.settings.fart;
+package com.heathendean.catfarts.settings.sound;
 
 
 import com.heathendean.catfarts.R;
@@ -12,15 +12,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class Farts extends AppCompatActivity {
+public class Sound extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_farts);
+        setContentView(R.layout.sound_activity);
 
         if (savedInstanceState == null) {
-            getSupportFragmentManager().beginTransaction().add(R.id.container, new Farts.PlaceholderFragment()).commit();
+            getSupportFragmentManager().beginTransaction().add(R.id.container, new Sound.PlaceholderFragment()).commit();
         }
     }
 
@@ -31,7 +31,7 @@ public class Farts extends AppCompatActivity {
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-            return inflater.inflate(R.layout.fragment_farts, container, false);
+            return inflater.inflate(R.layout.sound_fragment, container, false);
         }
     }
 

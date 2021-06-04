@@ -3,8 +3,8 @@ package com.heathendean.catfarts.settings;
 
 import com.heathendean.catfarts.MainActivity;
 import com.heathendean.catfarts.R;
-import com.heathendean.catfarts.settings.cat.Cat;
-import com.heathendean.catfarts.settings.fart.Farts;
+import com.heathendean.catfarts.settings.instructions.Instructions;
+import com.heathendean.catfarts.settings.sound.Sound;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -28,12 +28,12 @@ public class Settings extends AppCompatActivity{
 	}
 
 	public void cat_options(View view) {
-		Intent intent = new Intent(this, Cat.class);
+		Intent intent = new Intent(this, Instructions.class);
 		startActivity(intent);
 	}
 
 	public void fart_options(View view) {
-		Intent intent = new Intent(this, Farts.class);
+		Intent intent = new Intent(this, Sound.class);
 		startActivity(intent);
 	}
 
