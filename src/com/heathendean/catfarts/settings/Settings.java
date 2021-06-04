@@ -3,7 +3,14 @@ package com.heathendean.catfarts.settings;
 
 import com.heathendean.catfarts.MainActivity;
 import com.heathendean.catfarts.R;
+import com.heathendean.catfarts.settings.cheats.Cheats;
+import com.heathendean.catfarts.settings.contact.Contact;
+import com.heathendean.catfarts.settings.gameplay.Gameplay;
 import com.heathendean.catfarts.settings.instructions.Instructions;
+import com.heathendean.catfarts.settings.lore.Lore;
+import com.heathendean.catfarts.settings.networking.Networking;
+import com.heathendean.catfarts.settings.options.Options;
+import com.heathendean.catfarts.settings.pictures.Pictures;
 import com.heathendean.catfarts.settings.sound.Sound;
 
 import android.content.Intent;
@@ -27,13 +34,48 @@ public class Settings extends AppCompatActivity{
 		setContentView(R.layout.activity_settings);
 	}
 
-	public void cat_options(View view) {
+	public void instructions_menu(View view) {
 		Intent intent = new Intent(this, Instructions.class);
 		startActivity(intent);
 	}
 
-	public void fart_options(View view) {
+	public void sound_menu(View view) {
 		Intent intent = new Intent(this, Sound.class);
+		startActivity(intent);
+	}
+
+	public void pictures_menu(View view) {
+		Intent intent = new Intent(this, Pictures.class);
+		startActivity(intent);
+	}
+
+	public void gameplay_menu(View view) {
+		Intent intent = new Intent(this, Gameplay.class);
+		startActivity(intent);
+	}
+
+	public void options_menu(View view) {
+		Intent intent = new Intent(this, Options.class);
+		startActivity(intent);
+	}
+
+	public void networking_menu(View view) {
+		Intent intent = new Intent(this, Networking.class);
+		startActivity(intent);
+	}
+
+	public void cheats_menu(View view) {
+		Intent intent = new Intent(this, Cheats.class);
+		startActivity(intent);
+	}
+
+	public void contact_menu(View view) {
+		Intent intent = new Intent(this, Contact.class);
+		startActivity(intent);
+	}
+
+	public void lore_menu(View view) {
+		Intent intent = new Intent(this, Lore.class);
 		startActivity(intent);
 	}
 

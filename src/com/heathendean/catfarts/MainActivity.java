@@ -1,8 +1,6 @@
 package com.heathendean.catfarts;
 
 
-import com.heathendean.catfarts.contact.Contact;
-import com.heathendean.catfarts.instructions.Instructions;
 import com.heathendean.catfarts.play.Play;
 import com.heathendean.catfarts.settings.Settings;
 
@@ -60,18 +58,8 @@ public class MainActivity extends AppCompatActivity {
 		startActivity(intent);
 	}
 	
-	public void commands(View view) {
-		Intent intent = new Intent(this, Instructions.class);
-		startActivity(intent);
-	}	
-	
 	public void settings(View view) {
 		Intent intent = new Intent(this, Settings.class);
-		startActivity(intent);
-	}
-	
-	public void contact(View view) {
-		Intent intent = new Intent(this, Contact.class);
 		startActivity(intent);
 	}
 
