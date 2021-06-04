@@ -15,17 +15,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3c7d6131-1206-455a-9ac3-b0a3ecc6442b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/main/layout/fragment_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layouts/main/layout/fragment_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/options/layout/activity_cat.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/options/layout/activity_farts.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/options/layout/fragment_cat.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/layouts/options/layout/fragment_farts.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/contact/Contact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/instructions/Instructions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/cat/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heathendean/catfarts/settings/fart/Farts.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +100,11 @@
       <recent name="$PROJECT_DIR$/res/layout/options_layouts" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.heathendean.catfarts.settings.cat" />
+      <recent name="com.heathendean.catfarts.settings.pictures" />
+      <recent name="com.heathendean.catfarts.settings.options" />
+      <recent name="com.heathendean.catfarts.settings.networking" />
+      <recent name="com.heathendean.catfarts.settings.lore" />
+      <recent name="com.heathendean.catfarts.settings.gameplay" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/res/drawable" />
