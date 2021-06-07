@@ -6,6 +6,61 @@
 	tools:context="com.heathendean.catfarts.settings.Settings$PlaceholderFragment">
 
 
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical" >
+			<RelativeLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight=".3">
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:orientation="horizontal">
+					<com.heathendean.catfarts.custom.customSnapboxMale
+						android:id="@+id/testMale01"
+						android:layout_width="90dp"
+						android:layout_height="90dp"
+						android:background="@drawable/ic_blue_male"
+						/>
+					<com.heathendean.catfarts.custom.customSnapboxMale
+						android:id="@+id/testMale02"
+						android:layout_width="90dp"
+						android:layout_height="90dp"
+						android:background="@drawable/ic_green_male"
+						/>
+					<com.heathendean.catfarts.custom.customSnapboxMale
+						android:id="@+id/testMale03"
+						android:layout_width="90dp"
+						android:layout_height="90dp"
+						android:background="@drawable/ic_yellow_male"
+						/>
+					<com.heathendean.catfarts.custom.customSnapboxMale
+						android:id="@+id/testMale04"
+						android:layout_width="90dp"
+						android:layout_height="90dp"
+						android:background="@drawable/ic_red_male"
+						/>
+				</LinearLayout>
+			</RelativeLayout>
+			<RelativeLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight=".3">
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:orientation="horizontal">
+				<com.heathendean.catfarts.custom.customSnapboxFemale
+					android:id="@+id/testFemale01"
+					android:layout_width="100dp"
+					android:layout_height="100dp"
+					android:background="@drawable/ic_white_female"
+					/>
+				</LinearLayout>
+			</RelativeLayout>
+		</LinearLayout>
 
 	<com.heathendean.catfarts.custom.customImageButton
 		android:id="@+id/backHomeFromSettings"

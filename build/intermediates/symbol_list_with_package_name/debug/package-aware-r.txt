@@ -713,9 +713,14 @@ drawable gameplay_button
 drawable gameplay_button_01
 drawable go_home
 drawable ic_back_button
+drawable ic_blue_male
+drawable ic_green_male
 drawable ic_new_cat_button
+drawable ic_red_male
 drawable ic_settings_button
 drawable ic_start_button
+drawable ic_white_female
+drawable ic_yellow_male
 drawable instruction_button
 drawable instruction_button_01
 drawable lore_button
@@ -943,6 +948,11 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id testFemale01
+id testMale01
+id testMale02
+id testMale03
+id testMale04
 id text
 id text2
 id textSpacerNoButtons
