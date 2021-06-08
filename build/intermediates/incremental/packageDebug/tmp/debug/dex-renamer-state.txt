@@ -1,4 +1,4 @@
-#Mon Jun 07 20:56:01 CDT 2021
+#Tue Jun 08 17:14:20 CDT 2021
 base.1=/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 path.1=classes.dex
 base.0=/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex

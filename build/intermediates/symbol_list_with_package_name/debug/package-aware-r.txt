@@ -442,6 +442,7 @@ color material_grey_900
 color notification_action_color_filter
 color notification_icon_bg_color
 color pink
+color pink_background
 color pink_gray
 color pink_highlight
 color pink_lowlight
@@ -836,6 +837,7 @@ id checkbox
 id checked
 id chronometer
 id collapseActionView
+id contactWebView
 id container
 id content
 id contentPanel
@@ -877,6 +879,7 @@ id imageButton8
 id imageButton9
 id imageView1
 id info
+id instructionsWebView
 id invisible
 id italic
 id left
@@ -884,6 +887,7 @@ id line1
 id line3
 id listMode
 id list_item
+id loreWebView
 id mainLayoutContainer01
 id message
 id middle

@@ -37,6 +37,10 @@
       <sourceFolder url="file://$MODULE_DIR$/res/layouts/options" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/res/layouts/main" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/html" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/res/html" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/assets" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>

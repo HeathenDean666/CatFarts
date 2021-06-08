@@ -50,7 +50,7 @@ android {
             res.srcDirs = [
                     'res/layouts/main', 'res/layouts/options', 'res'
             ]
-            assets.srcDirs = ['assets']
+            assets.srcDirs = ['assets', 'html', 'res/html', 'src/main/assets']
         }
 
         // Move the tests to tests/java, tests/res, etc...

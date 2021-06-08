@@ -5,7 +5,10 @@
 	android:layout_height="match_parent"
 	tools:context="com.heathendean.catfarts.settings.Settings$PlaceholderFragment">
 
-
+	<WebView
+		android:id="@+id/loreWebView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"/>
 
 	<com.heathendean.catfarts.custom.customImageButton
 		android:id="@+id/backHomeFromSettings"
