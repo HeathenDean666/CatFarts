@@ -949,6 +949,13 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id testFemale01
+id testFemale02
+id testFemale03
+id testFemale04
+id testFemale05
+id testFemale06
+id testFemale07
+id testFemale08
 id testMale01
 id testMale02
 id testMale03
@@ -1087,6 +1094,10 @@ string app_name
 string button_send
 string desc
 string edit_message
+string name_cheats_blue
+string name_cheats_green
+string name_cheats_red
+string name_cheats_yellow
 string search_menu_title
 string settings_imageButton_01_contentDescription
 string status_bar_notification_info_overflow

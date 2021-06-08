@@ -37,6 +37,10 @@
 
     <!-- Settings/Cheats -->
     <string name="title_activity_cheats">Cheats</string>
+    <string name="name_cheats_blue">1</string>
+    <string name="name_cheats_green">2</string>
+    <string name="name_cheats_yellow">3</string>
+    <string name="name_cheats_red">4</string>
 
     <!-- Settings/Contact -->
     <string name="title_activity_contact">Contact</string>

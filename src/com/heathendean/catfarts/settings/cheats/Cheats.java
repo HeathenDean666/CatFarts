@@ -3,6 +3,7 @@ package com.heathendean.catfarts.settings.cheats;
 
 import android.content.ClipData;
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.DragEvent;
@@ -14,7 +15,11 @@ import android.view.ViewGroup;
 import com.heathendean.catfarts.R;
 import com.heathendean.catfarts.settings.Settings;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.res.ResourcesCompat;
 import androidx.fragment.app.Fragment;
 
 public class Cheats extends AppCompatActivity {
@@ -49,13 +54,16 @@ public class Cheats extends AppCompatActivity {
             getActivity().findViewById(R.id.testMale03).setOnTouchListener(new MyTouchListener());
             getActivity().findViewById(R.id.testMale04).setOnTouchListener(new MyTouchListener());
             getActivity().findViewById(R.id.testFemale01).setOnDragListener(new MyDragListener());
-
-//            getActivity().findViewById(R.id.testFemale02).setOnDragListener(new MyDragListener());
-//            getActivity().findViewById(R.id.testFemale03).setOnDragListener(new MyDragListener());
-//            getActivity().findViewById(R.id.testFemale04).setOnDragListener(new MyDragListener());
+            getActivity().findViewById(R.id.testFemale02).setOnDragListener(new MyDragListener());
+            getActivity().findViewById(R.id.testFemale03).setOnDragListener(new MyDragListener());
+            getActivity().findViewById(R.id.testFemale04).setOnDragListener(new MyDragListener());
+            getActivity().findViewById(R.id.testFemale05).setOnDragListener(new MyDragListener());
+            getActivity().findViewById(R.id.testFemale06).setOnDragListener(new MyDragListener());
+            getActivity().findViewById(R.id.testFemale07).setOnDragListener(new MyDragListener());
+            getActivity().findViewById(R.id.testFemale08).setOnDragListener(new MyDragListener());
         }
     }
-    
+
 
     private static final class MyTouchListener implements View.OnTouchListener {
         public boolean onTouch(View view, MotionEvent motionEvent) {
@@ -87,14 +95,12 @@ public class Cheats extends AppCompatActivity {
                     break;
                 case DragEvent.ACTION_DROP:
                     Log.d("Cheats.java","Male was dropped into female.");
-                    ViewGroup owner = (ViewGroup) femaleSnapBox.getParent();
-                    owner.removeView(femaleSnapBox);
                     ClipData cd = maleSnapBox.getClipData();
                     Log.d("Cheats.java", "Dragged ID: " + cd.getItemAt(0).getText().toString());
                     int draggedComponentID = Integer.parseInt(cd.getItemAt(0).getText().toString());
                     View draggedView = rootView.findViewById(draggedComponentID);
                     femaleSnapBox.setBackground(draggedView.getBackground());
-                    owner.addView(femaleSnapBox);
+                    femaleSnapBox.setContentDescription(draggedView.getContentDescription());
                     femaleSnapBox.setVisibility(View.VISIBLE);
                     break;
                 case DragEvent.ACTION_DRAG_ENDED:
@@ -104,6 +110,33 @@ public class Cheats extends AppCompatActivity {
             }
             return true;
         }
+    }
+
+    public void clear_females(){
+        Drawable blank_background = ResourcesCompat.getDrawable(getResources(), R.drawable.ic_white_female, null);
+        rootView.findViewById(R.id.testFemale01).setBackground(blank_background);
+        rootView.findViewById(R.id.testFemale02).setBackground(blank_background);
+        rootView.findViewById(R.id.testFemale03).setBackground(blank_background);
+        rootView.findViewById(R.id.testFemale04).setBackground(blank_background);
+        rootView.findViewById(R.id.testFemale05).setBackground(blank_background);
+        rootView.findViewById(R.id.testFemale06).setBackground(blank_background);
+        rootView.findViewById(R.id.testFemale07).setBackground(blank_background);
+        rootView.findViewById(R.id.testFemale08).setBackground(blank_background);
+    }
+
+    public void check_cheatcode(View view){
+        Log.d("Cheats.java","Testing Cheatcode...");
+        List<Integer> cheatcode = new ArrayList<>();
+        clear_females();
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale01).getContentDescription().toString()));
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale02).getContentDescription().toString()));
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale03).getContentDescription().toString()));
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale04).getContentDescription().toString()));
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale05).getContentDescription().toString()));
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale06).getContentDescription().toString()));
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale07).getContentDescription().toString()));
+        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale08).getContentDescription().toString()));
+        Log.d("Cheats.java", cheatcode.toString());
     }
 
     public void back_to_settings(View view) {
