@@ -11,12 +11,13 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 import com.heathendean.catfarts.R;
 import com.heathendean.catfarts.settings.Settings;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.res.ResourcesCompat;
@@ -25,11 +26,13 @@ import androidx.fragment.app.Fragment;
 public class Cheats extends AppCompatActivity {
 
     private static View rootView;
+    private static Map<String, String> cheatMap = new HashMap<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         rootView = this.getWindow().getDecorView().findViewById(android.R.id.content);
+        cheatMap = setup_cheat_map();
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction().add(R.id.container, new PlaceholderFragment()).commit();
         }
@@ -63,7 +66,6 @@ public class Cheats extends AppCompatActivity {
             getActivity().findViewById(R.id.testFemale08).setOnDragListener(new MyDragListener());
         }
     }
-
 
     private static final class MyTouchListener implements View.OnTouchListener {
         public boolean onTouch(View view, MotionEvent motionEvent) {
@@ -112,7 +114,19 @@ public class Cheats extends AppCompatActivity {
         }
     }
 
+    public Map<String, String> setup_cheat_map(){
+        Map<String, String> map = new HashMap<>();
+        String[] cheat_codes = getResources().getStringArray(R.array.cheat_codes);
+        String[] cheat_names = getResources().getStringArray(R.array.cheat_names);
+        for (int i = 0; i < cheat_codes.length; i++){
+            map.put(cheat_codes[i], cheat_names[i]);
+        }
+        return map;
+    }
+
     public void clear_females(){
+        TextView cheatCodeDisplay = (TextView)findViewById(R.id.cheatTextDisplay);
+        cheatCodeDisplay.setText(null);
         Drawable blank_background = ResourcesCompat.getDrawable(getResources(), R.drawable.ic_white_female, null);
         rootView.findViewById(R.id.testFemale01).setBackground(blank_background);
         rootView.findViewById(R.id.testFemale02).setBackground(blank_background);
@@ -122,23 +136,42 @@ public class Cheats extends AppCompatActivity {
         rootView.findViewById(R.id.testFemale06).setBackground(blank_background);
         rootView.findViewById(R.id.testFemale07).setBackground(blank_background);
         rootView.findViewById(R.id.testFemale08).setBackground(blank_background);
+        // TODO: figure out how to do a for each for these
+        rootView.findViewById(R.id.testFemale01).setContentDescription("0");
+        rootView.findViewById(R.id.testFemale02).setContentDescription("0");
+        rootView.findViewById(R.id.testFemale03).setContentDescription("0");
+        rootView.findViewById(R.id.testFemale04).setContentDescription("0");
+        rootView.findViewById(R.id.testFemale05).setContentDescription("0");
+        rootView.findViewById(R.id.testFemale06).setContentDescription("0");
+        rootView.findViewById(R.id.testFemale07).setContentDescription("0");
+        rootView.findViewById(R.id.testFemale08).setContentDescription("0");
     }
 
     public void check_cheatcode(View view){
         Log.d("Cheats.java","Testing Cheatcode...");
-        List<Integer> cheatcode = new ArrayList<>();
+        String cheatcode = "";
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale01).getContentDescription().toString()));
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale02).getContentDescription().toString()));
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale03).getContentDescription().toString()));
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale04).getContentDescription().toString()));
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale05).getContentDescription().toString()));
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale06).getContentDescription().toString()));
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale07).getContentDescription().toString()));
+        cheatcode = cheatcode + (Integer.parseInt(rootView.findViewById(R.id.testFemale08).getContentDescription().toString()));
+        Log.d("Cheats.java", cheatcode);
         clear_females();
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale01).getContentDescription().toString()));
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale02).getContentDescription().toString()));
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale03).getContentDescription().toString()));
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale04).getContentDescription().toString()));
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale05).getContentDescription().toString()));
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale06).getContentDescription().toString()));
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale07).getContentDescription().toString()));
-        cheatcode.add(Integer.parseInt(rootView.findViewById(R.id.testFemale08).getContentDescription().toString()));
-        Log.d("Cheats.java", cheatcode.toString());
+        for (String key: cheatMap.keySet()) {
+            if (cheatcode.equals(key)){
+                Log.d("Cheats.java", "Cheat enabled: " + cheatMap.get(key));
+                TextView cheatCodeDisplay = (TextView)findViewById(R.id.cheatTextDisplay);
+                cheatCodeDisplay.setText(cheatMap.get(key));
+            }
+        }
     }
 
+    // TODO: view cheats (right blue arrow to cheat list activity)
+    // TODO: beautify activity
+    // TODO: add horizontal layout
     public void back_to_settings(View view) {
         Intent intent = new Intent(this, Settings.class);
         startActivity(intent);

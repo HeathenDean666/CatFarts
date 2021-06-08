@@ -30,6 +30,8 @@ animator fragment_fade_enter
 animator fragment_fade_exit
 animator fragment_open_enter
 animator fragment_open_exit
+array cheat_codes
+array cheat_names
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -828,6 +830,8 @@ id bottom
 id buttonPanel
 id center_vertical
 id chains
+id cheatTextDisplay
+id checkCheatButton
 id checkbox
 id checked
 id chronometer
@@ -1095,6 +1099,7 @@ string button_send
 string desc
 string edit_message
 string name_cheats_blue
+string name_cheats_clear
 string name_cheats_green
 string name_cheats_red
 string name_cheats_yellow

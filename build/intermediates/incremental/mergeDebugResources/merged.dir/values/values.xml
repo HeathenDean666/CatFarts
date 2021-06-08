@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="cheat_codes">
+        <item>12341234</item>
+        <item>34343431</item>
+    </string-array>
+    <string-array name="cheat_names">
+        <item>DK_Mode!</item>
+        <item>WOOF WOOF</item>
+    </string-array>
     <attr format="boolean" name="barrierAllowsGoneWidgets"/>
     <attr format="enum" name="barrierDirection">
         <enum name="left" value="0"/>
@@ -433,6 +441,7 @@
     <string name="desc">testing…</string>
     <string name="edit_message">Enter a Message:</string>
     <string name="name_cheats_blue">1</string>
+    <string name="name_cheats_clear">0</string>
     <string name="name_cheats_green">2</string>
     <string name="name_cheats_red">4</string>
     <string name="name_cheats_yellow">3</string>

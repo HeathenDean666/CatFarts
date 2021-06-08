@@ -37,10 +37,19 @@
 
     <!-- Settings/Cheats -->
     <string name="title_activity_cheats">Cheats</string>
+    <string name="name_cheats_clear">0</string>
     <string name="name_cheats_blue">1</string>
     <string name="name_cheats_green">2</string>
     <string name="name_cheats_yellow">3</string>
     <string name="name_cheats_red">4</string>
+    <string-array name="cheat_codes">
+        <item>12341234</item>
+        <item>34343431</item>
+    </string-array>
+    <string-array name="cheat_names">
+        <item>DK_Mode!</item>
+        <item>WOOF WOOF</item>
+    </string-array>
 
     <!-- Settings/Contact -->
     <string name="title_activity_contact">Contact</string>
