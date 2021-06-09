@@ -1,17 +1,18 @@
 com/heathendean/catfarts/settings/lore/Lore.java
  com.heathendean.catfarts.settings.lore.Lore
  com.heathendean.catfarts.settings.lore.Lore$PlaceholderFragment
-com/heathendean/catfarts/settings/instructions/Instructions.java
- com.heathendean.catfarts.settings.instructions.Instructions
- com.heathendean.catfarts.settings.instructions.Instructions$PlaceholderFragment
+com/heathendean/catfarts/settings/options/Options.java
+ com.heathendean.catfarts.settings.options.Options
+ com.heathendean.catfarts.settings.options.Options$PlaceholderFragment
+ com.heathendean.catfarts.settings.options.Options$PlaceholderFragment$1
 com/heathendean/catfarts/custom/customImageButton.java
  com.heathendean.catfarts.custom.customImageButton
 com/heathendean/catfarts/settings/gameplay/Gameplay.java
  com.heathendean.catfarts.settings.gameplay.Gameplay
  com.heathendean.catfarts.settings.gameplay.Gameplay$PlaceholderFragment
-com/heathendean/catfarts/settings/options/Options.java
- com.heathendean.catfarts.settings.options.Options
- com.heathendean.catfarts.settings.options.Options$PlaceholderFragment
+com/heathendean/catfarts/settings/networking/Networking.java
+ com.heathendean.catfarts.settings.networking.Networking
+ com.heathendean.catfarts.settings.networking.Networking$PlaceholderFragment
 com/heathendean/catfarts/settings/pictures/Pictures.java
  com.heathendean.catfarts.settings.pictures.Pictures
  com.heathendean.catfarts.settings.pictures.Pictures$PlaceholderFragment
@@ -37,12 +38,13 @@ com/heathendean/catfarts/custom/customSnapboxMale.java
  com.heathendean.catfarts.custom.customSnapboxMale
 com/heathendean/catfarts/BuildConfig.java
  com.heathendean.catfarts.BuildConfig
+com/heathendean/catfarts/settings/instructions/Instructions.java
+ com.heathendean.catfarts.settings.instructions.Instructions
+ com.heathendean.catfarts.settings.instructions.Instructions$PlaceholderFragment
 com/heathendean/catfarts/settings/contact/Contact.java
  com.heathendean.catfarts.settings.contact.Contact
  com.heathendean.catfarts.settings.contact.Contact$PlaceholderFragment
-com/heathendean/catfarts/settings/networking/Networking.java
- com.heathendean.catfarts.settings.networking.Networking
- com.heathendean.catfarts.settings.networking.Networking$PlaceholderFragment
+ com.heathendean.catfarts.settings.contact.Contact$PlaceholderFragment$1
 com/heathendean/catfarts/settings/Settings.java
  com.heathendean.catfarts.settings.Settings
  com.heathendean.catfarts.settings.Settings$PlaceholderFragment

@@ -559,6 +559,9 @@ dimen compat_button_padding_vertical_material
 dimen compat_control_corner_material
 dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
+dimen customactivityoncrash_activity_horizontal_margin
+dimen customactivityoncrash_activity_vertical_margin
+dimen customactivityoncrash_error_activity_error_details_text_size
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
 dimen highlight_alpha_material_colored
@@ -710,6 +713,7 @@ drawable contact_button2
 drawable contact_button_01
 drawable contact_one
 drawable contact_two
+drawable customactivityoncrash_error_image
 drawable fartron
 drawable first
 drawable gameplay_button
@@ -843,6 +847,9 @@ id content
 id contentPanel
 id custom
 id customPanel
+id customactivityoncrash_error_activity_image
+id customactivityoncrash_error_activity_more_info_button
+id customactivityoncrash_error_activity_restart_button
 id decor_content_parent
 id default_activity_button
 id dialog_button
@@ -956,6 +963,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id testErrorButton
 id testFemale01
 id testFemale02
 id testFemale03
@@ -968,6 +976,8 @@ id testMale01
 id testMale02
 id testMale03
 id testMale04
+id testWebErrorButton
+id testWebErrorView
 id text
 id text2
 id textSpacerNoButtons
@@ -1037,6 +1047,7 @@ layout cheats_fragment
 layout contact_activity
 layout contact_fragment
 layout custom_dialog
+layout customactivityoncrash_default_error_activity
 layout fragment_main
 layout fragment_settings
 layout fragment_start_game
@@ -1100,6 +1111,15 @@ string abc_toolbar_collapse_description
 string action_settings
 string app_name
 string button_send
+string customactivityoncrash_error_activity_close_app
+string customactivityoncrash_error_activity_error_details
+string customactivityoncrash_error_activity_error_details_clipboard_label
+string customactivityoncrash_error_activity_error_details_close
+string customactivityoncrash_error_activity_error_details_copied
+string customactivityoncrash_error_activity_error_details_copy
+string customactivityoncrash_error_activity_error_details_title
+string customactivityoncrash_error_activity_error_occurred_explanation
+string customactivityoncrash_error_activity_restart_app
 string desc
 string edit_message
 string name_cheats_blue
@@ -1110,6 +1130,8 @@ string name_cheats_yellow
 string search_menu_title
 string settings_imageButton_01_contentDescription
 string status_bar_notification_info_overflow
+string text_test_error_button
+string text_test_web_error_button
 string title_activity_cheats
 string title_activity_contact
 string title_activity_gameplay

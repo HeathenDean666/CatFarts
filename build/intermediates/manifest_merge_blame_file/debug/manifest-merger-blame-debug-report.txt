@@ -208,6 +208,23 @@
 117                android:value="com.heathendean.catfarts.MainActivity" />
 117-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
 118        </activity>
-119    </application>
-120
-121</manifest>
+119        <activity
+119-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:12:9-14:49
+120            android:name="cat.ereza.customactivityoncrash.activity.DefaultErrorActivity"
+120-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:13:13-89
+121            android:process=":error_activity" />
+121-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:14:13-46
+122
+123        <provider
+123-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:16:9-20:39
+124            android:name="cat.ereza.customactivityoncrash.provider.CaocInitProvider"
+124-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:17:13-85
+125            android:authorities="com.heathendean.catfarts.customactivityoncrashinitprovider"
+125-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:18:13-85
+126            android:exported="false"
+126-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:19:13-37
+127            android:initOrder="101" />
+127-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:20:13-36
+128    </application>
+129
+130</manifest>

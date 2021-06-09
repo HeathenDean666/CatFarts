@@ -8,6 +8,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import androidx.appcompat.app.AppCompatActivity;
+import cat.ereza.customactivityoncrash.config.CaocConfig;
+
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.View;
@@ -27,6 +29,20 @@ public class MainActivity extends AppCompatActivity {
 			getSupportFragmentManager().beginTransaction()
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
+
+		CaocConfig.Builder.create()
+				.backgroundMode(CaocConfig.BACKGROUND_MODE_SILENT) //default: CaocConfig.BACKGROUND_MODE_SHOW_CUSTOM
+				.enabled(true) //default: true
+				.showErrorDetails(true) //default: true
+				.showRestartButton(true) //default: true
+				.logErrorOnRestart(true) //default: true
+				.trackActivities(true) //default: false
+				.minTimeBetweenCrashesMs(2000) //default: 3000
+				.errorDrawable(R.drawable.ic_red_male) //default: bug image
+				.restartActivity(MainActivity.class) //default: null (your app's launch activity)
+				.errorActivity(null) //default: null (default error activity)
+				.eventListener(null) //default: null
+				.apply();
 	}
 
 	@Override

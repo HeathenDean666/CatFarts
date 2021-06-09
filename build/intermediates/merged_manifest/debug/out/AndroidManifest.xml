@@ -116,6 +116,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.heathendean.catfarts.MainActivity" />
         </activity>
+        <activity
+            android:name="cat.ereza.customactivityoncrash.activity.DefaultErrorActivity"
+            android:process=":error_activity" />
+
+        <provider
+            android:name="cat.ereza.customactivityoncrash.provider.CaocInitProvider"
+            android:authorities="com.heathendean.catfarts.customactivityoncrashinitprovider"
+            android:exported="false"
+            android:initOrder="101" />
     </application>
 
 </manifest>

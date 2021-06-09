@@ -5,8 +5,34 @@
 	android:layout_height="match_parent"
 	tools:context="com.heathendean.catfarts.settings.Settings$PlaceholderFragment">
 
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+		<Button
+			android:id="@+id/testErrorButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:onClick="test_error"
+			android:text="@string/text_test_error_button" />
 
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="horizontal">
+			<Button
+				android:id="@+id/testWebErrorButton"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:onClick="test_web_error"
+				android:text="@string/text_test_web_error_button" />
 
+			<WebView
+				android:id="@+id/testWebErrorView"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"/>
+		</LinearLayout>
+	</LinearLayout>
 	<com.heathendean.catfarts.custom.customImageButton
 		android:id="@+id/backHomeFromSettings"
 		android:layout_width="200dp"
@@ -16,5 +42,4 @@
 		android:background="@drawable/back_triangle"
 		android:onClick="back_to_settings"
 		android:contentDescription="@string/desc"/>
-
 </RelativeLayout>

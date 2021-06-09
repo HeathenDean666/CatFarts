@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 
 import com.heathendean.catfarts.R;
 import com.heathendean.catfarts.settings.Settings;
@@ -23,6 +24,8 @@ public class Gameplay extends AppCompatActivity {
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction().add(R.id.container, new PlaceholderFragment()).commit();
         }
+
+
     }
 
     /**

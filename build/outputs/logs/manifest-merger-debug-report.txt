@@ -4,6 +4,7 @@ ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-
 INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-111:12
 INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-111:12
 INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2:1-111:12
+MERGED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.3.0] /home/addison/.gradle/caches/transforms-3/6a92ce16dcaa8dffab3c6b2e9dcfbdcf/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/66f2051a5b6572c26a872694cde98f05/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.3.4] /home/addison/.gradle/caches/transforms-3/9cede9d28d37cee098e2ef3b566c2ba5/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
@@ -47,6 +48,8 @@ INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:2
 		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
 application
 ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:7:5-110:19
+MERGED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:11:5-21:19
+MERGED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:11:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/66f2051a5b6572c26a872694cde98f05/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/66f2051a5b6572c26a872694cde98f05/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.5.0] /home/addison/.gradle/caches/transforms-3/b1af4cfb5f44540005246302d9f3486e/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
@@ -175,6 +178,8 @@ uses-sdk
 INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
 INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+MERGED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.3.0] /home/addison/.gradle/caches/transforms-3/6a92ce16dcaa8dffab3c6b2e9dcfbdcf/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.3.0] /home/addison/.gradle/caches/transforms-3/6a92ce16dcaa8dffab3c6b2e9dcfbdcf/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/addison/.gradle/caches/transforms-3/66f2051a5b6572c26a872694cde98f05/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
@@ -233,3 +238,19 @@ INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
 		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
 		ADDED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
 		INJECTED from /home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
+activity#cat.ereza.customactivityoncrash.activity.DefaultErrorActivity
+ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:12:9-14:49
+	android:process
+		ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:14:13-46
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:13:13-89
+provider#cat.ereza.customactivityoncrash.provider.CaocInitProvider
+ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:16:9-20:39
+	android:authorities
+		ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:18:13-85
+	android:exported
+		ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:19:13-37
+	android:initOrder
+		ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:17:13-85

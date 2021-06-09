@@ -18,6 +18,7 @@ public class Instructions extends AppCompatActivity {
 
     public static WebView webView;
 
+    // Web error
     public static String fileName = "instructions.html";
 
     @Override

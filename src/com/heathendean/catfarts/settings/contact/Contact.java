@@ -6,7 +6,10 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebResourceError;
+import android.webkit.WebResourceRequest;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 
 import com.heathendean.catfarts.R;
 import com.heathendean.catfarts.settings.Settings;
@@ -45,6 +48,12 @@ public class Contact extends AppCompatActivity {
         public void onViewCreated(View view, Bundle savedInstanceState) {
             super.onViewCreated(view, savedInstanceState);
             webView = (WebView) getActivity().findViewById(R.id.contactWebView);
+            webView.setWebViewClient(new WebViewClient(){
+                @Override
+                public void onReceivedError(WebView view, WebResourceRequest request, WebResourceError error){
+                    webView.loadUrl("file:///android_asset/general_error.html");
+                }
+            });
             // TODO: improve performance here
             webView.loadUrl("file:///android_asset/" + fileName);
         }
