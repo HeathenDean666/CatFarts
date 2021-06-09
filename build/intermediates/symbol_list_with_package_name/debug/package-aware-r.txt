@@ -996,6 +996,7 @@ id view_tree_lifecycle_owner
 id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible_removing_fragment_view_tag
+id volumeSelectSeekBar
 id withText
 id wrap
 id wrap_content
@@ -1109,6 +1110,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string action_settings
+string app_id
 string app_name
 string button_send
 string customactivityoncrash_error_activity_close_app
@@ -1144,6 +1146,7 @@ string title_activity_pictures
 string title_activity_settings
 string title_activity_sound
 string title_activity_start_game
+string version_number
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

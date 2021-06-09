@@ -74,6 +74,10 @@ android {
         versionCode 1
         versionName "1.0"
     }
+    applicationVariants.all { variant ->
+        variant.resValue "string", "app_id", "Application ID: " + variant.applicationId
+        variant.resValue "string", "version_number", "Version Number: " + variant.versionName
+    }
     dependenciesInfo {
         includeInApk true
     }

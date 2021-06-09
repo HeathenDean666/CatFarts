@@ -5,7 +5,21 @@
 	android:layout_height="match_parent"
 	tools:context="com.heathendean.catfarts.settings.Settings$PlaceholderFragment">
 
-
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Upload Cat"
+			android:onClick="upload_fart"/>
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="View Cat Gallery"
+			android:onClick="view_fart_gallery"/>
+	</LinearLayout>
 
 	<com.heathendean.catfarts.custom.customImageButton
 		android:id="@+id/backHomeFromSettings"

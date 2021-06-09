@@ -11,6 +11,7 @@ import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -20,6 +21,7 @@ import android.widget.ImageView;
 
 import com.heathendean.catfarts.MainActivity;
 import com.heathendean.catfarts.R;
+import com.heathendean.catfarts.settings.sound.Sound;
 
 public class Play extends AppCompatActivity {
 	//TODO: Make these values global? Config file?
@@ -39,31 +41,12 @@ public class Play extends AppCompatActivity {
 		}
 	}
 
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		//getMenuInflater().inflate(R.menu.start_game, menu);
-		return true;
-	}
-
-//	@Override
-//	public boolean onOptionsItemSelected(MenuItem item) {
-//		// Handle action bar item clicks here. The action bar will
-//		// automatically handle clicks on the Home/Up button, so long
-//		// as you specify a parent activity in AndroidManifest.xml.
-//		int id = item.getItemId();
-//		if (id == R.id.action_settings) {
-//			return true;
-//		}
-//		return super.onOptionsItemSelected(item);
-//	}
-
 	public void new_cat(View view) {
 		// Release resource if something went wrong last time.
 		mediaPlayer.release();
 		// Setup audio manager.
-		AudioManager audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
-		audioManager.setStreamVolume(AudioManager.STREAM_MUSIC, 20, 0);
+		//AudioManager audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+		//audioManager.setStreamVolume(AudioManager.STREAM_MUSIC, 20, 0);
 
 		// TODO: handle repeats/ persistence?
 		// Create and Display random image from resources
@@ -80,6 +63,8 @@ public class Play extends AppCompatActivity {
 		String soundResName = "fart_" + soundResSuffix;
 		int catSoundResourceId = this.getResources().getIdentifier(soundResName, "raw", this.getPackageName());
 		mediaPlayer = MediaPlayer.create(this.getApplicationContext(), catSoundResourceId);
+		Log.d("Play.java","Sound.volumeLevel: " + String.valueOf(Sound.volumeLevel));
+		mediaPlayer.setVolume(Sound.volumeLevel, Sound.volumeLevel);
 		mediaPlayer.start();
 
 		// Listen for sound completion and release resource.

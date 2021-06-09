@@ -13,6 +13,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 public class Sound extends AppCompatActivity {
+    public static int volumeLevel = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,6 +34,17 @@ public class Sound extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
             return inflater.inflate(R.layout.sound_fragment, container, false);
         }
+    }
+
+    // volumeLevel is a percentage of system volume. 0 will always be muted, 10 for VL and mute sys
+    // will be mute, 10 for VL and max sys will be loud, etc.
+
+    public void upload_fart(View view){
+        // Create Upload Far class and set intent/navigation here
+    }
+
+    public void view_fart_gallery(View view){
+        // Create Fart Gallery class and set intent/navigation here
     }
 
     public void back_to_settings(View view) {
