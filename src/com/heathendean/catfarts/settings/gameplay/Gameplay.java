@@ -6,15 +6,18 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.webkit.WebView;
+import android.widget.CompoundButton;
 
 import com.heathendean.catfarts.R;
 import com.heathendean.catfarts.settings.Settings;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.SwitchCompat;
 import androidx.fragment.app.Fragment;
 
 public class Gameplay extends AppCompatActivity {
+
+    public static boolean catsRepeat = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,8 +27,6 @@ public class Gameplay extends AppCompatActivity {
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction().add(R.id.container, new PlaceholderFragment()).commit();
         }
-
-
     }
 
     /**
@@ -36,6 +37,20 @@ public class Gameplay extends AppCompatActivity {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
             return inflater.inflate(R.layout.gameplay_fragment, container, false);
+        }
+
+        @Override
+        public void onViewCreated(View view, Bundle savedInstanceState) {
+            super.onViewCreated(view, savedInstanceState);
+            SwitchCompat catRepeatSwitch = getActivity().findViewById(R.id.catRepeatSwitch);
+            //catRepeatSwitch.setChecked(true);
+            catRepeatSwitch.setOnCheckedChangeListener(new CatRepeatSwitchListener());
+        }
+    }
+
+    private static final class CatRepeatSwitchListener implements CompoundButton.OnCheckedChangeListener {
+        public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+            catsRepeat = isChecked;
         }
     }
 

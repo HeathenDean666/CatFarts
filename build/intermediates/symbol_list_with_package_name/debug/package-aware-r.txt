@@ -32,6 +32,7 @@ animator fragment_open_enter
 animator fragment_open_exit
 array cheat_codes
 array cheat_names
+array languages
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -833,6 +834,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id catRepeatSwitch
 id center_vertical
 id chains
 id cheatTextDisplay
@@ -889,6 +891,7 @@ id info
 id instructionsWebView
 id invisible
 id italic
+id language_spinner
 id left
 id line1
 id line3
@@ -939,6 +942,7 @@ id showHome
 id showTitle
 id spacer
 id special_effects_controller_view_tag
+id spinner
 id split_action_bar
 id spread
 id spread_inside
@@ -949,6 +953,7 @@ id standard
 id start
 id submenuarrow
 id submit_area
+id switchLanguageButton
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans

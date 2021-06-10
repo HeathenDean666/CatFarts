@@ -17,6 +17,18 @@
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 			android:text="@string/version_number"/>
+
+		<Spinner
+			android:id="@+id/language_spinner"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content" />
+
+		<Button
+			android:id="@+id/switchLanguageButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:onClick="switch_language"
+			android:text="Set Language" />
 		<Button
 			android:id="@+id/testErrorButton"
 			android:layout_width="wrap_content"
@@ -39,6 +51,11 @@
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"/>
 		</LinearLayout>
+
+		<Spinner
+			android:id="@+id/spinner"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content" />
 	</LinearLayout>
 	<com.heathendean.catfarts.custom.customImageButton
 		android:id="@+id/backHomeFromSettings"

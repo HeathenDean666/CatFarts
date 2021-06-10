@@ -19,6 +19,7 @@ import com.heathendean.catfarts.settings.Settings;
 import java.util.HashMap;
 import java.util.Map;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.res.ResourcesCompat;
 import androidx.fragment.app.Fragment;
@@ -50,7 +51,7 @@ public class Cheats extends AppCompatActivity {
         }
 
         @Override
-        public void onViewCreated(View view, Bundle savedInstanceState) {
+        public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
             super.onViewCreated(view, savedInstanceState);
             getActivity().findViewById(R.id.testMale01).setOnTouchListener(new MyTouchListener());
             getActivity().findViewById(R.id.testMale02).setOnTouchListener(new MyTouchListener());
@@ -125,7 +126,7 @@ public class Cheats extends AppCompatActivity {
     }
 
     public void clear_females(){
-        TextView cheatCodeDisplay = (TextView)findViewById(R.id.cheatTextDisplay);
+        TextView cheatCodeDisplay = findViewById(R.id.cheatTextDisplay);
         cheatCodeDisplay.setText(null);
         Drawable blank_background = ResourcesCompat.getDrawable(getResources(), R.drawable.ic_white_female, null);
         rootView.findViewById(R.id.testFemale01).setBackground(blank_background);
@@ -163,7 +164,7 @@ public class Cheats extends AppCompatActivity {
         for (String key: cheatMap.keySet()) {
             if (cheatcode.equals(key)){
                 Log.d("Cheats.java", "Cheat enabled: " + cheatMap.get(key));
-                TextView cheatCodeDisplay = (TextView)findViewById(R.id.cheatTextDisplay);
+                TextView cheatCodeDisplay = findViewById(R.id.cheatTextDisplay);
                 cheatCodeDisplay.setText(cheatMap.get(key));
             }
         }

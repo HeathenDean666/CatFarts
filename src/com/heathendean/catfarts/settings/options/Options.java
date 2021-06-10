@@ -1,8 +1,11 @@
 package com.heathendean.catfarts.settings.options;
 
 
+import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,21 +13,30 @@ import android.webkit.WebResourceError;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 
 import com.heathendean.catfarts.R;
 import com.heathendean.catfarts.settings.Settings;
+import com.yariksoffice.lingver.Lingver;
+
+import java.io.IOException;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
+
 
 public class Options extends AppCompatActivity {
 
     private static View rootView;
     public static WebView webView;
+    public Spinner spinner;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.options_activity);
 
         rootView = this.getWindow().getDecorView().findViewById(android.R.id.content);
@@ -54,8 +66,44 @@ public class Options extends AppCompatActivity {
                     webView.loadUrl("file:///android_asset/general_error.html");
                 }
             });
+            Spinner spinner = (Spinner) getActivity().findViewById(R.id.language_spinner);
+            // Create an ArrayAdapter using the string array and a default spinner layout
+            ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(rootView.getContext(),
+                    R.array.languages, android.R.layout.simple_spinner_item);
+            // Specify the layout to use when the list of choices appears
+            adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+            // Apply the adapter to the spinner
+            spinner.setAdapter(adapter);
+            spinner.setOnItemSelectedListener(new MySpinnerActivity());
         }
 
+    }
+
+    public static class MySpinnerActivity extends Activity implements AdapterView.OnItemSelectedListener {
+        public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
+            Log.d("Options.java", "Language Selected: " + parent.getItemAtPosition(pos).toString());
+
+            // TODO: Figure out some fucking way to add these values to the individual items in the spinner string array
+            switch(parent.getItemAtPosition(pos).toString()) {
+                case "English":
+                    Lingver.getInstance().setLocale(rootView.getContext(), "en", "EN");
+                    break;
+                case "Russian":
+                    Lingver.getInstance().setLocale(rootView.getContext(), "ru", "RU");
+                    break;
+                default:
+                    throw new RuntimeException("Bad Language input somehow.");
+            }
+        }
+
+        public void onNothingSelected(AdapterView<?> parent) {
+            // Another interface callback
+        }
+    }
+
+    public void switch_language(View view){
+        Intent intent = new Intent(rootView.getContext(), Options.class);
+        startActivity(intent);
     }
 
     public void test_error(View view){

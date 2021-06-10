@@ -21,10 +21,13 @@ import android.widget.ImageView;
 
 import com.heathendean.catfarts.MainActivity;
 import com.heathendean.catfarts.R;
+import com.heathendean.catfarts.settings.gameplay.Gameplay;
 import com.heathendean.catfarts.settings.sound.Sound;
 
 public class Play extends AppCompatActivity {
 	//TODO: Make these values global? Config file?
+	public static String lastPic = "";
+	public static String lastSound = "";
 	private static final int PIC_NUM = 15;
 	private static final int SOUND_NUM = 6;
 	MediaPlayer mediaPlayer = new MediaPlayer();
@@ -44,15 +47,21 @@ public class Play extends AppCompatActivity {
 	public void new_cat(View view) {
 		// Release resource if something went wrong last time.
 		mediaPlayer.release();
-		// Setup audio manager.
-		//AudioManager audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
-		//audioManager.setStreamVolume(AudioManager.STREAM_MUSIC, 20, 0);
 
-		// TODO: handle repeats/ persistence?
 		// Create and Display random image from resources
 		ImageView image = (ImageView) findViewById(R.id.imageView1);
 		Random randPic = new Random();
 		String picResSuffix = String.valueOf(randPic.nextInt(PIC_NUM) + 1);
+		if (!Gameplay.catsRepeat){
+			Log.d("Play.java", "Repeats not allowed.");
+			Log.d("Play.java","last pic: " + lastPic);
+			Log.d("Play.java","pic suffix: " + picResSuffix);
+			while (lastPic.equals(picResSuffix)){
+				Log.e("Play.java","Cat Repeat!!");
+				picResSuffix = String.valueOf(randPic.nextInt(PIC_NUM) + 1);
+			}
+		}
+		lastPic = picResSuffix;
 		String picResName = "cat_" + picResSuffix;
 		int catPictureResourceId = this.getResources().getIdentifier(picResName, "drawable", this.getPackageName());
 		image.setImageResource(catPictureResourceId);

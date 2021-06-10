@@ -11,220 +11,222 @@
 9-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml
 10
 11    <application
-11-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:7:5-110:19
-12        android:allowBackup="true"
-12-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:8:9-35
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.5.0] /home/addison/.gradle/caches/transforms-3/b1af4cfb5f44540005246302d9f3486e/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
-14        android:debuggable="true"
-15        android:extractNativeLibs="false"
-16        android:icon="@drawable/app_icon"
-16-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:9:9-42
-17        android:testOnly="true"
-18        android:theme="@style/Theme.AppCompat.NoActionBar" >
-18-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:10:9-59
-19        <activity
-19-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:12:9-20:20
-20            android:name="com.heathendean.catfarts.MainActivity"
-20-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:13:13-65
-21            android:label="@string/app_name" >
-21-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:14:13-45
-22
-23            <!-- android:label="@string/title_activity_main" > -->
-24            <intent-filter>
-24-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:16:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:17:17-69
-25-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:17:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:18:17-77
-27-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30        <activity
-30-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:21:9-28:20
-31            android:name="com.heathendean.catfarts.play.Play"
-31-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:22:13-62
-32            android:label="@string/title_activity_start_game"
+11-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:7:5-111:19
+12        android:name="com.heathendean.catfarts.CatFarts"
+12-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:8:9-57
+13        android:allowBackup="true"
+13-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:9:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.5.0] /home/addison/.gradle/caches/transforms-3/b1af4cfb5f44540005246302d9f3486e/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@drawable/app_icon"
+17-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:10:9-42
+18        android:testOnly="true"
+19        android:theme="@style/Theme.AppCompat.NoActionBar" >
+19-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:11:9-59
+20        <activity
+20-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:13:9-21:20
+21            android:name="com.heathendean.catfarts.MainActivity"
+21-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:14:13-65
+22            android:label="@string/app_name" >
+22-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:15:13-45
+23
+24            <!-- android:label="@string/title_activity_main" > -->
+25            <intent-filter>
+25-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:17:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:18:17-69
+26-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:19:17-77
+28-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:22:9-29:20
+32            android:name="com.heathendean.catfarts.play.Play"
 32-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:23:13-62
-33            android:parentActivityName="com.heathendean.catfarts.MainActivity" >
-33-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:24:13-79
-34            <meta-data
-34-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-35                android:name="android.support.PARENT_ACTIVITY"
-35-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-36                android:value="com.heathendean.catfarts.MainActivity" />
-36-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-37        </activity>
-38        <activity
-38-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:29:9-36:20
-39            android:name="com.heathendean.catfarts.settings.Settings"
-39-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:30:13-70
-40            android:label="@string/title_activity_settings"
-40-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:31:13-60
-41            android:parentActivityName="com.heathendean.catfarts.MainActivity" >
-41-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:32:13-79
-42            <meta-data
-42-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-43                android:name="android.support.PARENT_ACTIVITY"
-43-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-44                android:value="com.heathendean.catfarts.MainActivity" />
-44-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-45        </activity>
-46        <!-- Settings Activities -->
-47        <activity
-47-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:38:9-45:20
-48            android:name="com.heathendean.catfarts.settings.instructions.Instructions"
-48-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:39:13-87
-49            android:label="@string/title_activity_instructions"
-49-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:40:13-64
-50            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-50-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:41:13-84
-51            <meta-data
-51-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-52                android:name="android.support.PARENT_ACTIVITY"
-52-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-53                android:value="com.heathendean.catfarts.MainActivity" />
-53-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-54        </activity>
-55        <activity
-55-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:46:9-53:20
-56            android:name="com.heathendean.catfarts.settings.sound.Sound"
-56-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:47:13-73
-57            android:label="@string/title_activity_sound"
-57-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:48:13-57
-58            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-58-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:49:13-84
-59            <meta-data
-59-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-60                android:name="android.support.PARENT_ACTIVITY"
-60-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-61                android:value="com.heathendean.catfarts.MainActivity" />
-61-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-62        </activity>
-63        <activity
-63-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:54:9-61:20
-64            android:name="com.heathendean.catfarts.settings.pictures.Pictures"
-64-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:55:13-79
-65            android:label="@string/title_activity_pictures"
-65-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:56:13-60
-66            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-66-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:57:13-84
-67            <meta-data
-67-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-68                android:name="android.support.PARENT_ACTIVITY"
-68-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-69                android:value="com.heathendean.catfarts.MainActivity" />
-69-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-70        </activity>
-71        <activity
-71-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:62:9-69:20
-72            android:name="com.heathendean.catfarts.settings.gameplay.Gameplay"
-72-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:63:13-79
-73            android:label="@string/title_activity_gameplay"
-73-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:64:13-60
-74            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-74-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:65:13-84
-75            <meta-data
-75-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-76                android:name="android.support.PARENT_ACTIVITY"
-76-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-77                android:value="com.heathendean.catfarts.MainActivity" />
-77-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-78        </activity>
-79        <activity
-79-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:70:9-77:20
-80            android:name="com.heathendean.catfarts.settings.options.Options"
-80-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:71:13-77
-81            android:label="@string/title_activity_options"
-81-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:72:13-59
-82            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-82-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:73:13-84
-83            <meta-data
-83-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-84                android:name="android.support.PARENT_ACTIVITY"
-84-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-85                android:value="com.heathendean.catfarts.MainActivity" />
-85-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-86        </activity>
-87        <activity
-87-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:78:9-85:20
-88            android:name="com.heathendean.catfarts.settings.networking.Networking"
-88-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:79:13-83
-89            android:label="@string/title_activity_networking"
-89-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:80:13-62
-90            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-90-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:81:13-84
-91            <meta-data
-91-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-92                android:name="android.support.PARENT_ACTIVITY"
-92-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-93                android:value="com.heathendean.catfarts.MainActivity" />
-93-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-94        </activity>
-95        <activity
-95-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:86:9-93:20
-96            android:name="com.heathendean.catfarts.settings.cheats.Cheats"
-96-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:87:13-75
-97            android:label="@string/title_activity_cheats"
-97-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:88:13-58
-98            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-98-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:89:13-84
-99            <meta-data
-99-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-100                android:name="android.support.PARENT_ACTIVITY"
-100-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-101                android:value="com.heathendean.catfarts.MainActivity" />
-101-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-102        </activity>
-103        <activity
-103-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:94:9-101:20
-104            android:name="com.heathendean.catfarts.settings.contact.Contact"
-104-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:95:13-77
-105            android:label="@string/title_activity_contact"
-105-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:96:13-59
-106            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-106-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:97:13-84
-107            <meta-data
-107-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-108                android:name="android.support.PARENT_ACTIVITY"
-108-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-109                android:value="com.heathendean.catfarts.MainActivity" />
-109-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-110        </activity>
-111        <activity
-111-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:102:9-109:20
-112            android:name="com.heathendean.catfarts.settings.lore.Lore"
-112-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:103:13-71
-113            android:label="@string/title_activity_lore"
-113-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:104:13-56
-114            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
-114-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:105:13-84
-115            <meta-data
-115-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-27:73
-116                android:name="android.support.PARENT_ACTIVITY"
-116-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:17-63
-117                android:value="com.heathendean.catfarts.MainActivity" />
-117-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-70
-118        </activity>
-119        <activity
-119-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:12:9-14:49
-120            android:name="cat.ereza.customactivityoncrash.activity.DefaultErrorActivity"
-120-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:13:13-89
-121            android:process=":error_activity" />
-121-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:14:13-46
-122
-123        <provider
-123-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:16:9-20:39
-124            android:name="cat.ereza.customactivityoncrash.provider.CaocInitProvider"
-124-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:17:13-85
-125            android:authorities="com.heathendean.catfarts.customactivityoncrashinitprovider"
-125-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:18:13-85
-126            android:exported="false"
-126-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:19:13-37
-127            android:initOrder="101" />
-127-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:20:13-36
-128    </application>
-129
-130</manifest>
+33            android:label="@string/title_activity_start_game"
+33-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:24:13-62
+34            android:parentActivityName="com.heathendean.catfarts.MainActivity" >
+34-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:25:13-79
+35            <meta-data
+35-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+36                android:name="android.support.PARENT_ACTIVITY"
+36-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+37                android:value="com.heathendean.catfarts.MainActivity" />
+37-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+38        </activity>
+39        <activity
+39-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:30:9-37:20
+40            android:name="com.heathendean.catfarts.settings.Settings"
+40-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:31:13-70
+41            android:label="@string/title_activity_settings"
+41-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:32:13-60
+42            android:parentActivityName="com.heathendean.catfarts.MainActivity" >
+42-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:33:13-79
+43            <meta-data
+43-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+44                android:name="android.support.PARENT_ACTIVITY"
+44-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+45                android:value="com.heathendean.catfarts.MainActivity" />
+45-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+46        </activity>
+47        <!-- Settings Activities -->
+48        <activity
+48-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:39:9-46:20
+49            android:name="com.heathendean.catfarts.settings.instructions.Instructions"
+49-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:40:13-87
+50            android:label="@string/title_activity_instructions"
+50-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:41:13-64
+51            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+51-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:42:13-84
+52            <meta-data
+52-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+53                android:name="android.support.PARENT_ACTIVITY"
+53-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+54                android:value="com.heathendean.catfarts.MainActivity" />
+54-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+55        </activity>
+56        <activity
+56-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:47:9-54:20
+57            android:name="com.heathendean.catfarts.settings.sound.Sound"
+57-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:48:13-73
+58            android:label="@string/title_activity_sound"
+58-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:49:13-57
+59            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+59-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:50:13-84
+60            <meta-data
+60-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+61                android:name="android.support.PARENT_ACTIVITY"
+61-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+62                android:value="com.heathendean.catfarts.MainActivity" />
+62-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+63        </activity>
+64        <activity
+64-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:55:9-62:20
+65            android:name="com.heathendean.catfarts.settings.pictures.Pictures"
+65-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:56:13-79
+66            android:label="@string/title_activity_pictures"
+66-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:57:13-60
+67            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+67-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:58:13-84
+68            <meta-data
+68-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+69                android:name="android.support.PARENT_ACTIVITY"
+69-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+70                android:value="com.heathendean.catfarts.MainActivity" />
+70-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+71        </activity>
+72        <activity
+72-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:63:9-70:20
+73            android:name="com.heathendean.catfarts.settings.gameplay.Gameplay"
+73-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:64:13-79
+74            android:label="@string/title_activity_gameplay"
+74-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:65:13-60
+75            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+75-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:66:13-84
+76            <meta-data
+76-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+77                android:name="android.support.PARENT_ACTIVITY"
+77-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+78                android:value="com.heathendean.catfarts.MainActivity" />
+78-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+79        </activity>
+80        <activity
+80-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:71:9-78:20
+81            android:name="com.heathendean.catfarts.settings.options.Options"
+81-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:72:13-77
+82            android:label="@string/title_activity_options"
+82-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:73:13-59
+83            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+83-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:74:13-84
+84            <meta-data
+84-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+85                android:name="android.support.PARENT_ACTIVITY"
+85-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+86                android:value="com.heathendean.catfarts.MainActivity" />
+86-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+87        </activity>
+88        <activity
+88-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:79:9-86:20
+89            android:name="com.heathendean.catfarts.settings.networking.Networking"
+89-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:80:13-83
+90            android:label="@string/title_activity_networking"
+90-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:81:13-62
+91            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+91-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:82:13-84
+92            <meta-data
+92-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+93                android:name="android.support.PARENT_ACTIVITY"
+93-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+94                android:value="com.heathendean.catfarts.MainActivity" />
+94-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+95        </activity>
+96        <activity
+96-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:87:9-94:20
+97            android:name="com.heathendean.catfarts.settings.cheats.Cheats"
+97-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:88:13-75
+98            android:label="@string/title_activity_cheats"
+98-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:89:13-58
+99            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+99-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:90:13-84
+100            <meta-data
+100-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+101                android:name="android.support.PARENT_ACTIVITY"
+101-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+102                android:value="com.heathendean.catfarts.MainActivity" />
+102-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+103        </activity>
+104        <activity
+104-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:95:9-102:20
+105            android:name="com.heathendean.catfarts.settings.contact.Contact"
+105-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:96:13-77
+106            android:label="@string/title_activity_contact"
+106-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:97:13-59
+107            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+107-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:98:13-84
+108            <meta-data
+108-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+109                android:name="android.support.PARENT_ACTIVITY"
+109-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+110                android:value="com.heathendean.catfarts.MainActivity" />
+110-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+111        </activity>
+112        <activity
+112-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:103:9-110:20
+113            android:name="com.heathendean.catfarts.settings.lore.Lore"
+113-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:104:13-71
+114            android:label="@string/title_activity_lore"
+114-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:105:13-56
+115            android:parentActivityName="com.heathendean.catfarts.settings.Settings" >
+115-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:106:13-84
+116            <meta-data
+116-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:26:13-28:73
+117                android:name="android.support.PARENT_ACTIVITY"
+117-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:27:17-63
+118                android:value="com.heathendean.catfarts.MainActivity" />
+118-->/home/addison/AndroidStudioProjects/CatFarts/AndroidManifest.xml:28:17-70
+119        </activity>
+120        <activity
+120-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:12:9-14:49
+121            android:name="cat.ereza.customactivityoncrash.activity.DefaultErrorActivity"
+121-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:13:13-89
+122            android:process=":error_activity" />
+122-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:14:13-46
+123
+124        <provider
+124-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:16:9-20:39
+125            android:name="cat.ereza.customactivityoncrash.provider.CaocInitProvider"
+125-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:17:13-85
+126            android:authorities="com.heathendean.catfarts.customactivityoncrashinitprovider"
+126-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:18:13-85
+127            android:exported="false"
+127-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:19:13-37
+128            android:initOrder="101" />
+128-->[cat.ereza:customactivityoncrash:2.3.0] /home/addison/.gradle/caches/transforms-3/f8c96a0c28fa22918daff0ea278eb65a/transformed/jetified-customactivityoncrash-2.3.0/AndroidManifest.xml:20:13-36
+129    </application>
+130
+131</manifest>

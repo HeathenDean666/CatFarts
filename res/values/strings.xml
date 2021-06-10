@@ -31,6 +31,10 @@
 
     <!-- Settings/Options -->
     <string name="title_activity_options">Options</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Russian</item>
+    </string-array>
     <string name="text_test_error_button">Test App Error</string>
     <string name="text_test_web_error_button">Test Web Error</string>
 

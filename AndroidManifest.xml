@@ -5,6 +5,7 @@
     android:versionName="1.0" >
 
     <application
+        android:name="com.heathendean.catfarts.CatFarts"
         android:allowBackup="true"
         android:icon="@drawable/app_icon"
         android:theme="@style/Theme.AppCompat.NoActionBar">

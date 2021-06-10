@@ -1,28 +1,31 @@
 com/heathendean/catfarts/settings/lore/Lore.java
  com.heathendean.catfarts.settings.lore.Lore
  com.heathendean.catfarts.settings.lore.Lore$PlaceholderFragment
+com/heathendean/catfarts/CatFarts.java
+ com.heathendean.catfarts.CatFarts
 com/heathendean/catfarts/settings/instructions/Instructions.java
  com.heathendean.catfarts.settings.instructions.Instructions
  com.heathendean.catfarts.settings.instructions.Instructions$PlaceholderFragment
 com/heathendean/catfarts/custom/customImageButton.java
  com.heathendean.catfarts.custom.customImageButton
-com/heathendean/catfarts/settings/gameplay/Gameplay.java
- com.heathendean.catfarts.settings.gameplay.Gameplay
- com.heathendean.catfarts.settings.gameplay.Gameplay$PlaceholderFragment
+com/heathendean/catfarts/settings/networking/Networking.java
+ com.heathendean.catfarts.settings.networking.Networking
+ com.heathendean.catfarts.settings.networking.Networking$PlaceholderFragment
 com/heathendean/catfarts/settings/options/Options.java
  com.heathendean.catfarts.settings.options.Options
+ com.heathendean.catfarts.settings.options.Options$MySpinnerActivity
  com.heathendean.catfarts.settings.options.Options$PlaceholderFragment
  com.heathendean.catfarts.settings.options.Options$PlaceholderFragment$1
 com/heathendean/catfarts/settings/pictures/Pictures.java
  com.heathendean.catfarts.settings.pictures.Pictures
  com.heathendean.catfarts.settings.pictures.Pictures$PlaceholderFragment
-com/heathendean/catfarts/MainActivity.java
- com.heathendean.catfarts.MainActivity
- com.heathendean.catfarts.MainActivity$PlaceholderFragment
 com/heathendean/catfarts/settings/contact/Contact.java
  com.heathendean.catfarts.settings.contact.Contact
  com.heathendean.catfarts.settings.contact.Contact$PlaceholderFragment
  com.heathendean.catfarts.settings.contact.Contact$PlaceholderFragment$1
+com/heathendean/catfarts/settings/sound/Sound.java
+ com.heathendean.catfarts.settings.sound.Sound
+ com.heathendean.catfarts.settings.sound.Sound$PlaceholderFragment
 com/heathendean/catfarts/settings/cheats/Cheats.java
  com.heathendean.catfarts.settings.cheats.Cheats
  com.heathendean.catfarts.settings.cheats.Cheats$1
@@ -31,20 +34,22 @@ com/heathendean/catfarts/settings/cheats/Cheats.java
  com.heathendean.catfarts.settings.cheats.Cheats$PlaceholderFragment
 com/heathendean/catfarts/custom/customSnapboxFemale.java
  com.heathendean.catfarts.custom.customSnapboxFemale
-com/heathendean/catfarts/settings/networking/Networking.java
- com.heathendean.catfarts.settings.networking.Networking
- com.heathendean.catfarts.settings.networking.Networking$PlaceholderFragment
-com/heathendean/catfarts/custom/customSnapboxMale.java
- com.heathendean.catfarts.custom.customSnapboxMale
 com/heathendean/catfarts/BuildConfig.java
  com.heathendean.catfarts.BuildConfig
+com/heathendean/catfarts/custom/customSnapboxMale.java
+ com.heathendean.catfarts.custom.customSnapboxMale
 com/heathendean/catfarts/play/Play.java
  com.heathendean.catfarts.play.Play
  com.heathendean.catfarts.play.Play$1
  com.heathendean.catfarts.play.Play$PlaceholderFragment
+com/heathendean/catfarts/settings/gameplay/Gameplay.java
+ com.heathendean.catfarts.settings.gameplay.Gameplay
+ com.heathendean.catfarts.settings.gameplay.Gameplay$1
+ com.heathendean.catfarts.settings.gameplay.Gameplay$CatRepeatSwitchListener
+ com.heathendean.catfarts.settings.gameplay.Gameplay$PlaceholderFragment
+com/heathendean/catfarts/MainActivity.java
+ com.heathendean.catfarts.MainActivity
+ com.heathendean.catfarts.MainActivity$PlaceholderFragment
 com/heathendean/catfarts/settings/Settings.java
  com.heathendean.catfarts.settings.Settings
  com.heathendean.catfarts.settings.Settings$PlaceholderFragment
-com/heathendean/catfarts/settings/sound/Sound.java
- com.heathendean.catfarts.settings.sound.Sound
- com.heathendean.catfarts.settings.sound.Sound$PlaceholderFragment

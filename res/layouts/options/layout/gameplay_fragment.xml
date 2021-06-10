@@ -30,6 +30,7 @@
 				android:layout_height="wrap_content"
 				android:text="Allow Cat Repeats?"/>
 			<androidx.appcompat.widget.SwitchCompat
+				android:id="@+id/catRepeatSwitch"
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"/>
 		</LinearLayout>
