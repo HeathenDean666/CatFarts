@@ -1,13 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.YarikSOffice:lingver:1.3.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/84c8ba36e14d10a74c60e7f374236f9e/transformed/jetified-lingver-1.3.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/84c8ba36e14d10a74c60e7f374236f9e/transformed/jetified-lingver-1.3.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/84c8ba36e14d10a74c60e7f374236f9e/transformed/jetified-lingver-1.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/24091cc2bcc975edd1155c774931c73f/transformed/jetified-lingver-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/24091cc2bcc975edd1155c774931c73f/transformed/jetified-lingver-1.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/24091cc2bcc975edd1155c774931c73f/transformed/jetified-lingver-1.3.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.YarikSOffice/lingver/1.3.0/4e4409adb83ec6440897487f6ffd1d027a0a5368/lingver-1.3.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.YarikSOffice/lingver/1.3.0/22fa5eb54943fef5a2cbd764a5b967b9193bf429/lingver-1.3.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

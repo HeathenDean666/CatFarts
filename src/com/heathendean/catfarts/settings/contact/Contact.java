@@ -13,7 +13,6 @@ import android.webkit.WebViewClient;
 
 import com.heathendean.catfarts.R;
 import com.heathendean.catfarts.settings.Settings;
-import com.heathendean.catfarts.settings.cheats.Cheats;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -47,7 +46,7 @@ public class Contact extends AppCompatActivity {
         @Override
         public void onViewCreated(View view, Bundle savedInstanceState) {
             super.onViewCreated(view, savedInstanceState);
-            webView = (WebView) getActivity().findViewById(R.id.contactWebView);
+            webView = requireActivity().findViewById(R.id.contactWebView);
             webView.setWebViewClient(new WebViewClient(){
                 @Override
                 public void onReceivedError(WebView view, WebResourceRequest request, WebResourceError error){

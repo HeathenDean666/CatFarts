@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "/home/addison/AndroidStudioProjects/CatFarts/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "C:\\Users\\lehh0\\AndroidProjects\\CatFarts\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "/home/addison/AndroidStudioProjects/CatFarts/res/values-v11/styles.xml",
+                    "source": "C:\\Users\\lehh0\\AndroidProjects\\CatFarts\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
-                        "startOffsets": "177",
+                        "startOffsets": "183",
                         "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "321"
+                        "endOffsets": "329"
                     },
                     "to": {
                         "startLines": "2",
