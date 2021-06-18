@@ -6,7 +6,7 @@ This is CatFarts. It is a work in progress. We hope it's fun.
 # Instructions
 Until available for download- pull the code, run it using Android Studio, and debug on your Android device.
 
-Should be available for download in the PlayStore and fDroid soon.
+Should be available for download in the PlayStore and F-Droid soon.
 
 Hopefully pretty self-explanatory once it's installed.
 'Start' is the main function of the game.
