@@ -49,7 +49,7 @@ public class Play extends AppCompatActivity {
 		mediaPlayer.release();
 
 		// Create and Display random image from resources
-		ImageView image = (ImageView) findViewById(R.id.imageView1);
+		ImageView image = findViewById(R.id.imageView1);
 		Random randPic = new Random();
 		String picResSuffix = String.valueOf(randPic.nextInt(PIC_NUM) + 1);
 		if (!Gameplay.catsRepeat){

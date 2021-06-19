@@ -1129,6 +1129,9 @@ string customactivityoncrash_error_activity_error_occurred_explanation
 string customactivityoncrash_error_activity_restart_app
 string desc
 string edit_message
+string label_allow_cat_repeats_switch
+string label_allow_fart_repeats_switch
+string label_fart_counter_switch
 string name_cheats_blue
 string name_cheats_clear
 string name_cheats_green

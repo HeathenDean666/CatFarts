@@ -28,6 +28,9 @@
 
     <!-- Settings/Gameplay -->
     <string name="title_activity_gameplay">Gameplay</string>
+    <string name="label_fart_counter_switch">Fart Counter?</string>
+    <string name="label_allow_cat_repeats_switch">Allow Cat Repeats?</string>
+    <string name="label_allow_fart_repeats_switch">Allow Fart Repeats?</string>
 
     <!-- Settings/Options -->
     <string name="title_activity_options">Options</string>

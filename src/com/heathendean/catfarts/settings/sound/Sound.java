@@ -77,6 +77,7 @@ public class Sound extends AppCompatActivity {
             SharedPreferences.Editor editor = sharedpreferences.edit();
             editor.putInt("Volume", volume);
             editor.apply();
+            volumeLevel = sharedpreferences.getInt("Volume", 0);
         }
 
         public void onStartTrackingTouch(SeekBar seekBar) {}

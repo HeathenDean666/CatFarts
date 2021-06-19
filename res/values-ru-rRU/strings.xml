@@ -22,4 +22,7 @@
     <string name="title_activity_networking">сеть</string>
     <string name="text_test_web_error_button">проверить веб-ошибку</string>
     <string name="text_test_error_button">проверить приложение-ошибку</string>
+    <string name="label_allow_cat_repeats_switch">Разрешить повторение кошки?</string>
+    <string name="label_allow_fart_repeats_switch">Разрешить повторение пердежа?</string>
+    <string name="label_fart_counter_switch">Счетчик пердежа?</string>
 </resources>
